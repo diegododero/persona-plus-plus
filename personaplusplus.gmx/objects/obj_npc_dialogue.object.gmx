@@ -27,7 +27,7 @@
             <kind>1</kind>
             <string>//Create a dialogue box to attach to.
 //This dialogue box is running text collected from the tag "intro0" from the .csv file and is using the category "default_category". Check scr_juju_dialogue() for more on categories.
-var boxInst = scr_juju_dialogue( x, y,   "intro1", "default_category" );
+var boxInst = scr_juju_dialogue( x, y,   "famhostil1", "default_category" );
 </string>
           </argument>
         </arguments>
