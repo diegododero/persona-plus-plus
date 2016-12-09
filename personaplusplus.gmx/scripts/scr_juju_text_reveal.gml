@@ -9,4 +9,4 @@
 //  /u/jujuadams
 //  Juju on the GMC
 
-if ( !audio_is_playing( snd_key ) ) audio_play_sound( snd_key, 1, false );
+//if ( !audio_is_playing( snd_key ) ) audio_play_sound( snd_key, 1, false );

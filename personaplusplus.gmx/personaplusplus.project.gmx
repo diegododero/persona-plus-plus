@@ -80,12 +80,31 @@
         <script>scripts\scr_juju_text_skip.gml</script>
       </scripts>
     </scripts>
+    <scripts name="Extra Gamepad Scripts">
+      <script>scripts\scr_juju_gamepads_crude_any_button.gml</script>
+      <script>scripts\scr_juju_gamepads_crude_any_button_pressed.gml</script>
+      <script>scripts\scr_juju_gamepads_crude_any_button_released.gml</script>
+      <script>scripts\scr_juju_gamepads_crude_any_connected.gml</script>
+    </scripts>
   </scripts>
   <fonts name="fonts">
     <font>fonts\game_font</font>
+    <font>fonts\fnt_a</font>
+    <font>fonts\fnt_a_bold</font>
+    <font>fonts\fnt_a_italic</font>
+    <font>fonts\fnt_b</font>
+    <font>fonts\fnt_b_italic</font>
   </fonts>
   <objects name="objects">
     <object>objects\obj_npc</object>
+    <object>objects\obj_init</object>
+    <objects name="Dialogues">
+      <object>objects\obj_juju_dialogue_box</object>
+      <object>objects\obj_juju_dialogue_option</object>
+      <object>objects\obj_juju_portrait</object>
+      <object>objects\obj_juju_text</object>
+    </objects>
+    <object>objects\obj_npc_dialogue</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
