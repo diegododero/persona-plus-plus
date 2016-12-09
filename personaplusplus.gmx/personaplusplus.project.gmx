@@ -10,6 +10,56 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\script0.gml</script>
+    <scripts name="Juju's Text Engine">
+      <scripts name="Backend">
+        <scripts name="Dialogue Box">
+          <script>scripts\scr_juju_dialogue_box.gml</script>
+          <script>scripts\scr_juju_dialogue_box_add_child.gml</script>
+          <script>scripts\scr_juju_dialogue_box_add_portrait.gml</script>
+          <script>scripts\scr_juju_dialogue_box_destroy_children.gml</script>
+          <script>scripts\scr_juju_dialogue_box_destroy_portrait.gml</script>
+          <script>scripts\scr_juju_dialogue_box_link_portrait.gml</script>
+          <script>scripts\scr_juju_dialogue_destroy_event.gml</script>
+          <script>scripts\scr_juju_dialogue_populate.gml</script>
+          <script>scripts\scr_juju_dialogue_step_event.gml</script>
+        </scripts>
+        <scripts name="Text">
+          <script>scripts\scr_juju_text_destroy_event.gml</script>
+          <script>scripts\scr_juju_text_draw_event.gml</script>
+          <script>scripts\scr_juju_text_init.gml</script>
+          <script>scripts\scr_juju_text_process.gml</script>
+          <script>scripts\scr_juju_text_step_event.gml</script>
+        </scripts>
+        <script>scripts\scr_juju_animate_weld.gml</script>
+        <script>scripts\scr_juju_string_remove_whitespace.gml</script>
+      </scripts>
+      <scripts name="Dev Editable">
+        <scripts name="Animation">
+          <script>scripts\scr_juju_animate_sin_loop.gml</script>
+          <script>scripts\scr_juju_ease_cubic_in.gml</script>
+          <script>scripts\scr_juju_ease_cubic_out.gml</script>
+          <script>scripts\scr_juju_ease_linear.gml</script>
+        </scripts>
+        <script>scripts\scr_juju_dialogue.gml</script>
+        <script>scripts\scr_juju_dialogue_select.gml</script>
+        <script>scripts\scr_juju_text_reveal.gml</script>
+        <script>scripts\scr_juju_text_styles.gml</script>
+      </scripts>
+      <scripts name="Frontend">
+        <script>scripts\scr_juju_animate.gml</script>
+        <script>scripts\scr_juju_csv_load.gml</script>
+        <script>scripts\scr_juju_dialogue_clicked.gml</script>
+        <script>scripts\scr_juju_dialogue_from_grid.gml</script>
+        <script>scripts\scr_juju_font_init.gml</script>
+        <script>scripts\scr_juju_portrait.gml</script>
+        <script>scripts\scr_juju_text.gml</script>
+        <script>scripts\scr_juju_text_fetch.gml</script>
+        <script>scripts\scr_juju_text_skip.gml</script>
+      </scripts>
+    </scripts>
+  </scripts>
   <fonts name="fonts">
     <font>fonts\game_font</font>
   </fonts>
