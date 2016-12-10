@@ -147,14 +147,14 @@ dist_y=(y-mouse_y);
 
 if (dist &lt; 250)
 {
-draw_set_font(game_font)
-
-draw_set_colour(c_blue)
-draw_text(x+20, y, "hostilidad " + string(rnd_hostility) );
-draw_set_colour(c_green)
-draw_text(x+20, y+30, "nivel de hostilidad " + string(hostility) );
-draw_set_colour(c_red)
-draw_text(x+20, y+60, "género "  + string(gender) );
+    draw_set_font(game_font)
+    
+    draw_set_colour(c_blue)
+    draw_text(x+20, y, "hostilidad " + string(rnd_hostility) );
+    draw_set_colour(c_green)
+    draw_text(x+20, y+30, "nivel de hostilidad " + string(hostility) );
+    draw_set_colour(c_red)
+    draw_text(x+20, y+60, "género "  + string(gender) );
 }
 </string>
           </argument>

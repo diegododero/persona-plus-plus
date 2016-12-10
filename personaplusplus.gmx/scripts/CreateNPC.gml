@@ -4,20 +4,20 @@ randomize();
 rnd_hostility = random(1);
 rnd_gender = random(2);
 
-hostility = attitude.neutral
+hostility = npc_attitude.neutral
 gender = gender.neutral
 
 if (rnd_hostility < 0.3){
-    hostility = attitude.friendly;
+    hostility = npc_attitude.friendly;
 }
 else if (rnd_hostility < 0.6) {
-    hostility = attitude.uninformed;
+    hostility = npc_attitude.uninformed;
 }
 else if (rnd_hostility < 0.9) {
-    hostility = attitude.panic;
+    hostility = npc_attitude.panic;
 }
 else {
-    hostility = attitude.reject;
+    hostility = npc_attitude.reject;
 }
 
 if (rnd_gender < 1){

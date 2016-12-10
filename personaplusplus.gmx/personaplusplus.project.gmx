@@ -88,6 +88,7 @@
     <scripts name="Creation">
       <script>scripts\CreateNPC.gml</script>
       <script>scripts\CreateRelative.gml</script>
+      <script>scripts\CreatePlayer.gml</script>
     </scripts>
     <scripts name="Drawing">
       <script>scripts\script43.gml</script>
@@ -116,6 +117,7 @@
     <object>objects\obj_npc_dialogue</object>
     <object>objects\obj_friend</object>
     <object>objects\obj_relative</object>
+    <object>objects\obj_player</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
