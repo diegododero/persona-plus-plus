@@ -32,7 +32,6 @@
   <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
-    <script>scripts\script0.gml</script>
     <scripts name="Juju's Text Engine">
       <scripts name="Backend">
         <scripts name="Dialogue Box">
@@ -86,6 +85,16 @@
       <script>scripts\scr_juju_gamepads_crude_any_button_released.gml</script>
       <script>scripts\scr_juju_gamepads_crude_any_connected.gml</script>
     </scripts>
+    <scripts name="Creation">
+      <script>scripts\CreateNPC.gml</script>
+      <script>scripts\CreateRelative.gml</script>
+    </scripts>
+    <scripts name="Drawing">
+      <script>scripts\script43.gml</script>
+    </scripts>
+    <scripts name="DataTypes">
+      <script>scripts\scr_enum.gml</script>
+    </scripts>
   </scripts>
   <fonts name="fonts">
     <font>fonts\game_font</font>
@@ -105,6 +114,8 @@
       <object>objects\obj_juju_text</object>
     </objects>
     <object>objects\obj_npc_dialogue</object>
+    <object>objects\obj_friend</object>
+    <object>objects\obj_relative</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
