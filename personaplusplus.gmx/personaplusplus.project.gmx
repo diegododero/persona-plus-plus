@@ -96,6 +96,9 @@
     <scripts name="DataTypes">
       <script>scripts\scr_enum.gml</script>
     </scripts>
+    <scripts name="Interactions">
+      <script>scripts\InteractWithPlayer.gml</script>
+    </scripts>
   </scripts>
   <fonts name="fonts">
     <font>fonts\game_font</font>

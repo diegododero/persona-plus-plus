@@ -3,7 +3,7 @@ famhostil1|¡Hola! Llegaste tarde, ¿dónde estabas?||Nada. Haciendo cosas.||famhos
 |||No importa. Tenemos que hablar.||famhostil3
 famhostil2|¿Cosas? ¡Tan vago me saliste! Tendrías que estar ayudando en la casa.||Tengo cosas más importantes en la cabeza.||famhostil4
 famhostil4|¿Qué es más importante que tus obligaciones?||No importa, no entenderías.||famhostil5
-|||Sentate, tenemos que hablar.||famhostil3
+|||Sentate, tenemos que hablar.|InteractWithPlayer();|famhostil3
 famhostil5|Tenía razón, seguro andabas vagando con esos amiguitos tuyos.||Tenés razón, mejor me voy a hacer algo productivo.||famhostil6
 famhostil6|Andá, a ver si todavía me podés salir bueno.||
 famhostil3|¿De qué tenemos que hablar? Más te vale que no sean excusas para llegar tarde.|| De nada, dejá.||famhostil5
