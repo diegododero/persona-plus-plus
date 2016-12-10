@@ -1,0 +1,18 @@
+"!!startBlock|||||																									"
+"fam2_host_rej1|Al fin aparecés. Ya que sos un parásito en esta casa, este mes necesito más plata.||Pero yo ya aporto lo que puedo.||fam2_host_rej2																									"
+"|||¿Tenemos que hablar ahora de plata? Te quiero hablar de otra cosa.||fam2_host_rej3																									"
+"fam2_host_rej2|Y bueno, este mes gastarás menos en salidas con tus amiguitos.||No es justo.||fam2_host_rej4																									"
+"fam2_host_rej4|La vida no es justa, acostumbrate.||Bueno, después te escribo un cheque, no sé.||																"
+"|||Ya sé que la vida no es justa. De eso te quiero hablar.||fam2_host_rej3																									"
+"fam2_host_rej3|¿De qué me querés hablar? No me vengas a llorar con tus problemas que yo tengo los mios.|| De nada, dejá.||fam2_host_rej5																									"
+"|||Me dio positivo un estudio de VIH que me hice.||fam2_host_rej7																									"
+fam2_host_rej5|Y si, seguro me ibas a decir una pavada.||Si, está bien, no puedo hablar de nada con vos.||
+"fam2_host_rej7|¿Qué? ¿Cómo que te dio positivo? ¿Qué quiere decir? ¿Tenés SIDA?||¡No! No tengo SIDA, tengo VIH.||fam2_host_rej8																									"
+"|||Me tendría que haber callado la boca. No se puede hablar con vos.||fam2_host_rej9																									"
+"fam2_host_rej9|¿Conmigo no se puede hablar? ¡Será con vos que no se puede hablar, que me traes SIDA!||																									"
+"fam2_host_rej8|¿Y por qué hacés la distinción? ¡Te vas a morir igual, poque yo no te puedo comprar remedios!||No me tenés que comprar nada, me los dan gratis.||fam2_host_rej10																									"
+"fam2_host_rej10|¿Gratis te los van a dar? ¿Vos qué te pensás, que te ven la cara y dicen ""uh, pobre"" y te dan remedios gratis? ¡No funciona así el mundo!||Se los dan gratis a todos los portadores de VIH||fam2_host_rej11"
+|||No entendés nada||fam2_host_rej12
+fam2_host_rej11|¿En serio? Ah, entonces qué, ¿fuiste y te contagiaste porque total te dan remedios gratis?||No puedo seguir esta conversación.||
+"fam2_host_rej12|¿Yo no entiendo nada? ¡Vos no entendés nada! ""Gratis"", dice.||"
+"!!endBlock||||||																									"

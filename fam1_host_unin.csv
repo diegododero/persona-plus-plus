@@ -1,0 +1,18 @@
+"!!startBlock|||||																									"
+"fam1_host_unin1|¡Hola! Pensé que estabas en casa, hace un rato me di cuenta que no. ¿Dónde estabas?||Tenía que salir.||fam1_host_unin2																									"
+"|||No importa. Tengo que decirte algo.||fam1_host_unin3																									"
+"fam1_host_unin2|Ah, lo que pasa es que necesito decidir el regalo de tu prima  Julia, y vos la conocés más.||No sé, regalale cualquier cosa.||fam1_host_unin4																									"
+"fam1_host_unin4|No me digas que cualquier cosa, es tu prima, 20 años se cumple una sola vez.||Qué se yo, regalale un perrito.||fam1_host_unin5																									"
+"|||No puedo pensar ahora en Julia, necesito hablar algo con vos.||fam1_host_unin3																									"
+"fam1_host_unin5|Te estoy preguntando en serio, no me podés salir con esa respuesta.||Regalale un conejo. Ni idea, tengo cosas que hacer.||fam1_host_unin6																									"
+"fam1_host_unin6|Bueno, si se te ocurre un regalo en serio me decís.||																									"
+"fam1_host_unin3|¿Qué me querés decir?|| Quiero ir a aprender japonés.||fam1_host_unin11																			"
+"|||Me hice el estudio de VIH. Soy positivo.||fam1_host_unin7																									"
+fam1_host_unin11|¿Japonés? Me parece que tendrías que estudiar un idioma más útil.
+"fam1_host_unin7|¿Cómo que tenés SIDA? ¿Me estás hablando en serio? ¿Cómo pasó?||¿Qué importa? ¿Acaso cambia algo saber cómo pasó? |fam1_host_unin9																									"
+"|||No tengo SIDA. Tengo VIH. No es lo mismo.||fam1_host_unin8																									"
+fam1_host_unin9|Es que me resulta demasiado terrible. No sé cómo manejar esto.
+"fam1_host_unin8|¿Cómo que no es lo mismo?||No. Con medicación el VIH es una enfermedad crónica, como la diabetes.||fam1_host_unin10																									"
+|||No puedo creer que no tengas idea de nada.||
+fam1_host_unin10|Entonces… ¿no te estás por morir?||No. Te dejo un folleto que me dieron, leelo por favor.
+"!!endBlock||||||																									"
