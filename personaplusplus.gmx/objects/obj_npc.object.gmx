@@ -5,39 +5,10 @@
   <visible>-1</visible>
   <depth>0</depth>
   <persistent>0</persistent>
-  <parentName>&lt;undefined&gt;</parentName>
+  <parentName>obj_solid</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
     <event eventtype="0" enumb="0">
-      <action>
-        <libid>1</libid>
-        <id>603</id>
-        <kind>7</kind>
-        <userelative>0</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>2</exetype>
-        <functionname></functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>1</kind>
-            <string>/// Define NPC variables
-
-randomize();
-
-rnd_hostility = random(1);
-rnd_gender = random(2);
-
-hostility = "neutral"
-gender = "neutral"
-</string>
-          </argument>
-        </arguments>
-      </action>
       <action>
         <libid>1</libid>
         <id>601</id>
@@ -96,28 +67,33 @@ gender = "neutral"
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>/// Step NPC
+            <string>distancia= point_distance(x,y,obj_player.x,obj_player.y);
+if (distancia &lt; 50)
+{
+    if dialog_on
+    { 
+    switch hostility
+    {
+        case npc_attitude.friendly:
+            dialogtag="fam1_host_fri1";
+            break;
+        case npc_attitude.panic:
+            dialogtag="fam1_host_pan1";
+            break;
+        case npc_attitude.reject:
+        dialogtag="fam1_host_uni1";
+        break;
+        case npc_attitude.uninformed:
+            dialogtag="fam1_host_rej1";
+            break;
+    }
+    //Create a dialogue box to attach to.
+    //This dialogue box is running text collected from the tag "intro0" from the .csv file and is using the category "default_category". Check scr_juju_dialogue() for more on categories.
+    var boxInst = scr_juju_dialogue( 30, 600, dialogtag, "default_category" );
+    dialog_on =false;
+    }
+}
 
-/*
-if (rnd_hostility&lt;0.3){
-hostility = "friendly";
-}
-else if (rnd_hostility&lt;0.6) {
-hostility = "uninformed";
-}
-else if (rnd_hostility&lt;0.9) {
-hostility = "panic";
-}
-else {
-hostility = "reject";
-}
-if (rnd_gender&lt;1){
-gender= "femenino";
-}
-else {
-gender = "masculino";
-}
-*/
 </string>
           </argument>
         </arguments>
@@ -140,7 +116,7 @@ gender = "masculino";
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>dist = point_distance(x,y,mouse_x,mouse_y);
+            <string>/*dist = point_distance(x,y,mouse_x,mouse_y);
 
 dist_x=(x-mouse_x);
 dist_y=(y-mouse_y);
@@ -156,6 +132,7 @@ if (dist &lt; 250)
     draw_set_colour(c_red)
     draw_text(x+20, y+60, "género "  + string(gender) );
 }
+*/
 </string>
           </argument>
         </arguments>

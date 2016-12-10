@@ -3,8 +3,8 @@
   <Configs name="configs">
     <Config>Configs\Default</Config>
   </Configs>
-  <datafiles number="2" name="datafiles">
-    <datafiles number="2" name="Dialogues">
+  <datafiles number="6" name="datafiles">
+    <datafiles number="6" name="Dialogues">
       <datafile>
         <name>ejemplo.csv</name>
         <exists>-1</exists>
@@ -22,14 +22,94 @@
         </ConfigOptions>
         <filename>ejemplo.csv</filename>
       </datafile>
+      <datafile>
+        <name>fam1_host_fri.csv</name>
+        <exists>-1</exists>
+        <size>1662</size>
+        <exportAction>2</exportAction>
+        <exportDir></exportDir>
+        <overwrite>0</overwrite>
+        <freeData>-1</freeData>
+        <removeEnd>0</removeEnd>
+        <store>0</store>
+        <ConfigOptions>
+          <Config name="Default">
+            <CopyToMask>9223372036854775807</CopyToMask>
+          </Config>
+        </ConfigOptions>
+        <filename>fam1_host_fri.csv</filename>
+      </datafile>
+      <datafile>
+        <name>fam1_host_pan.csv</name>
+        <exists>-1</exists>
+        <size>2518</size>
+        <exportAction>2</exportAction>
+        <exportDir></exportDir>
+        <overwrite>0</overwrite>
+        <freeData>-1</freeData>
+        <removeEnd>0</removeEnd>
+        <store>0</store>
+        <ConfigOptions>
+          <Config name="Default">
+            <CopyToMask>9223372036854775807</CopyToMask>
+          </Config>
+        </ConfigOptions>
+        <filename>fam1_host_pan.csv</filename>
+      </datafile>
+      <datafile>
+        <name>fam1_host_rej.csv</name>
+        <exists>-1</exists>
+        <size>1982</size>
+        <exportAction>2</exportAction>
+        <exportDir></exportDir>
+        <overwrite>0</overwrite>
+        <freeData>-1</freeData>
+        <removeEnd>0</removeEnd>
+        <store>0</store>
+        <ConfigOptions>
+          <Config name="Default">
+            <CopyToMask>9223372036854775807</CopyToMask>
+          </Config>
+        </ConfigOptions>
+        <filename>fam1_host_rej.csv</filename>
+      </datafile>
+      <datafile>
+        <name>fam1_host_unin.csv</name>
+        <exists>-1</exists>
+        <size>2030</size>
+        <exportAction>2</exportAction>
+        <exportDir></exportDir>
+        <overwrite>0</overwrite>
+        <freeData>-1</freeData>
+        <removeEnd>0</removeEnd>
+        <store>0</store>
+        <ConfigOptions>
+          <Config name="Default">
+            <CopyToMask>9223372036854775807</CopyToMask>
+          </Config>
+        </ConfigOptions>
+        <filename>fam1_host_unin.csv</filename>
+      </datafile>
     </datafiles>
   </datafiles>
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_npc</sprite>
+    <sprite>sprites\spr_auto</sprite>
+    <sprite>sprites\spr_bondi</sprite>
+    <sprite>sprites\spr_camion</sprite>
+    <sprite>sprites\spr_largewall</sprite>
+    <sprite>sprites\spr_PjAba</sprite>
+    <sprite>sprites\spr_PjArr</sprite>
+    <sprite>sprites\spr_PjDer</sprite>
+    <sprite>sprites\spr_PjIzq</sprite>
+    <sprite>sprites\spr_whitewalll</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background0</background>
+    <background>background\background1</background>
+  </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
     <scripts name="Juju's Text Engine">
@@ -102,6 +182,8 @@
     <scripts name="Initialization">
       <script>scripts\ReactionsTable.gml</script>
     </scripts>
+    <script>scripts\Check_Mov.gml</script>
+    <script>scripts\Verificar_Colision.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\game_font</font>
@@ -123,10 +205,21 @@
     <object>objects\obj_npc_dialogue</object>
     <object>objects\obj_friend</object>
     <object>objects\obj_relative</object>
+    <object>objects\obj_largewall</object>
+    <object>objects\obj_pared</object>
     <object>objects\obj_player</object>
+    <object>objects\obj_solid</object>
+    <objects name="INTRO">
+      <object>objects\obj_transport</object>
+      <object>objects\obj_bondi</object>
+      <object>objects\obj_camion</object>
+      <object>objects\obj_auto</object>
+    </objects>
   </objects>
   <rooms name="rooms">
+    <room>rooms\home</room>
     <room>rooms\room0</room>
+    <room>rooms\intro</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
