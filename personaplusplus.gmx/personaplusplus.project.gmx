@@ -105,14 +105,14 @@
     <font>fonts\fnt_b_italic</font>
   </fonts>
   <objects name="objects">
-    <object>objects\obj_npc</object>
-    <object>objects\obj_init</object>
     <objects name="Dialogues">
       <object>objects\obj_juju_dialogue_box</object>
       <object>objects\obj_juju_dialogue_option</object>
       <object>objects\obj_juju_portrait</object>
       <object>objects\obj_juju_text</object>
     </objects>
+    <object>objects\obj_npc</object>
+    <object>objects\obj_init</object>
     <object>objects\obj_npc_dialogue</object>
     <object>objects\obj_friend</object>
     <object>objects\obj_relative</object>
