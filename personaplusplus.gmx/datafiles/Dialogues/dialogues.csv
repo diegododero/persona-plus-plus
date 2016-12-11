@@ -1,0 +1,124 @@
+!!startBlock|||||
+fam1_host_fri1|¡Hola! Justo te iba a mandar un mensajito. ¿Por dónde andabas?||Paseando.||fam1_host_fri2
+|||Tengo que contarte algo.||fam1_host_fri3
+fam1_host_fri2|¿Paseabas por lugares lindos?||Sí, qué se yo.||fam1_host_fri4
+fam1_host_fri4|Mañana cuando volvés, ¿me traés el café molido que me gusta de ese lugar cerca de tu trabajo?.||Sí, te traigo.||fam1_host_fri5
+|||Tengo algo para decirte.||fam1_host_fri3
+fam1_host_fri5|Buenísimo, gracias.||Tengo que ir a hacer algo.||fam1_host_fri6
+fam1_host_fri6|Dale.||
+fam1_host_fri3|Sabés que me podés decir cualquier cosa.||Aunque… ahora que lo pienso, todavía no lo puedo hablar.||famhosti11
+|||Me hice el estudio de VIH. Soy positivo.||fam1_host_fri7
+fam1_host_fri11|Bueno, hijo, cuando quieras.||
+fam1_host_fri7|… Bueno... Sí, me imagino cómo te debés sentir. Contá conmigo en todo lo que te pueda ayudar.||Ya me ayuda que  me entiendas.||fam1_host_fri8
+|||Tengo miedo de olvidarme de tomar la medicación.||fam1_host_fri9
+fam1_host_fri9|Ponemos mil alarmas por toda la casa. No te preocupes.||||
+fam1_host_fri8|Oime, vas a estar bien, vas a tener que cuidarte, pero no estás solo.||Gracias, necesitaba oir eso.||fam1_host_fri10
+fam1_host_fri10|Nada cambia, seguís siendo mi orgullo.||
+fam1_host_pan1|¡Hola! Ya me estaba preocupando por vos, te estaba por llamar al celu. ¿Por dónde andabas?||Siempre te hacés tanto drama. Andaba por ahí.||fam1_host_pan2
+|||Tengo que decirte algo, pero no te pongas mal.||fam1_host_pan3
+fam1_host_pan2|Es que yo me preocupo. ¡Pasan cosas tan horribles en la calle!||Te hacés mucho la cabeza.||fam1_host_pan4
+fam1_host_pan4|Es que encima vos me decís que andabas por ahí, y yo no sé dónde es ahí.||Ahí, haciendo mi vida.||fam1_host_pan5
+|||Vengo del hospital. Pero por favor no te alteres.||fam1_host_pan3
+fam1_host_pan5|Haciendo tu vida. Está bien, hacé tu vida, total, ya creciste y no me necesitás.||No es que no te necesite pero soy una persona adulta. ||fam1_host_pan6
+fam1_host_pan6|Si, tenés razón, pero mientras vivas en esta casa me tenés que avisar dónde estás y a qué hora volvés, es una simple cuestión de convivencia.||Está bien, la próxima te aviso.||
+fam1_host_pan3|¿Ves que yo tenía razón? ¡Pasó algo malo! ¿Qué pasó?|| ¡No, nada grave! En el hospital me dijeron que me tengo que hacer más estudios porque por ahí tengo anemia o algo. ||fam1_host_pan11
+|||Me hice el estudio de VIH. Soy positivo.||fam1_host_pan7
+fam1_host_pan11|||¡Y si vivís comiendo cualquier cosa! Bueno, vas a tener que hacer todo lo que te digan los médicos, con la salud no se juega.||
+fam1_host_pan7|¿Qué? ¡No, no puede ser! ¿Te estás muriendo? ¡No te podés morir antes que yo!||¡No me estoy muriendo! Calmate, por favor, sino no podemos hablar. ||fam1_host_pan8
+|||No tendría que haberte dicho nada. Me tendría que haber callado, te hacés drama por todo.||fam1_host_pan9
+fam1_host_pan9|¿Y cómo querés que no me haga drama si mi propio hijo se está muriendo?||En este momento no puedo seguir esta conversación.||
+fam1_host_pan8|Es muy dificil calmarse cuando tu propio hijo te dice que tiene una enfermedad horrible...||No te voy a decir que vaya a ser fácil, pero necesito tu apoyo.||fam1_host_pan10
+fam1_host_pan10|||Si, es verdad, me necesitás. Yo necesito algo de tiempo para calmarme un poco, pero acá estoy.||
+fam1_host_rej1|¡Hola! Llegá a la hora que te parezca, dale, total esto es un hotel.  ¿Dónde estabas?||Nada. Haciendo cosas.||fam1_host_rej2
+|||No importa. Tenemos que hablar.|||fam1_host_rej3
+fam1_host_rej2|¿Cosas? ¡Tan vago me saliste! Tendrías que estar ayudando en la casa.||Tengo cosas más importantes en la cabeza.||fam1_host_rej4
+fam1_host_rej4|¿Qué es más importante que tus obligaciones?||No importa, no entenderías.||fam1_host_rej5
+|||Sentate, tenemos que hablar.||fam1_host_rej3
+fam1_host_rej5|Tenía razón, seguro andabas vagando con esos amiguitos tuyos.||Tenés razón, mejor me voy a hacer algo productivo.||fam1_host_rej6
+fam1_host_rej6|||Andá, a ver si todavía me podés salir bueno.||
+fam1_host_rej3|¿De qué tenemos que hablar? Más te vale que no sean excusas para llegar a la hora que se te da la gana.|| De nada, dejá.||fam1_host_rej5
+|||Me hice el estudio de VIH. Soy positivo.||fam1_host_rej7
+fam1_host_rej7|¿Qué? ¿Qué estás diciendo? ¿Tenés SIDA? Me muero, ¡nos vamos a contagiar todos y nos vamos a morir por tu culpa!||¡No! No quise decir eso. Nadie se va a morir, no te voy a contagiar por respirarte encima.||fam1_host_rej8
+|||No tendría que haberte dicho nada. Nunca vas a entender.|||fam1_host_rej9
+fam1_host_rej9|||¿Por qué Dios me castiga así?||
+fam1_host_rej8|¡Más te vale que no me pegues nada! ¡Vos nunca pensás en tu familia!||Mirá, te dejo un folleto, cuando te calmes, mejor leelo.|||fam1_host_rej10
+fam1_host_rej10|||¿Por qué nos pasa esto? Si no somos como esas familias...||
+fam1_host_unin1|¡Hola! Pensé que estabas en casa, hace un rato me di cuenta que no. ¿Dónde estabas?||Tenía que salir.||fam1_host_unin2
+|||No importa. Tengo que decirte algo.||fam1_host_unin3
+fam1_host_unin2|Ah, lo que pasa es que necesito decidir el regalo de tu prima  Julia, y vos la conocés más.||No sé, regalale cualquier cosa.||fam1_host_unin4
+fam1_host_unin4|No me digas que cualquier cosa, es tu prima, 20 años se cumple una sola vez.||Qué se yo, regalale un perrito.||fam1_host_unin5
+|||No puedo pensar ahora en Julia, necesito hablar algo con vos.||fam1_host_unin3
+fam1_host_unin5|Te estoy preguntando en serio, no me podés salir con esa respuesta.||Regalale un conejo. Ni idea, tengo cosas que hacer.||fam1_host_unin6
+fam1_host_unin6|Bueno, si se te ocurre un regalo en serio me decís.||
+fam1_host_unin3|¿Qué me querés decir?|| Quiero ir a aprender japonés.||fam1_host_unin11
+|||Me hice el estudio de VIH. Soy positivo.||fam1_host_unin7
+fam1_host_unin11|¿Japonés? Me parece que tendrías que estudiar un idioma más útil.
+fam1_host_unin7|¿Cómo que tenés SIDA? ¿Me estás hablando en serio? ¿Cómo pasó?||¿Qué importa? ¿Acaso cambia algo saber cómo pasó? |fam1_host_unin9
+|||No tengo SIDA. Tengo VIH. No es lo mismo.||fam1_host_unin8
+fam1_host_unin9|Es que me resulta demasiado terrible. No sé cómo manejar esto.
+fam1_host_unin8|¿Cómo que no es lo mismo?||No. Con medicación el VIH es una enfermedad crónica, como la diabetes.||fam1_host_unin10
+|||No puedo creer que no tengas idea de nada.||
+fam1_host_unin10|Entonces… ¿no te estás por morir?||No. Te dejo un folleto que me dieron, leelo por favor.
+fam2_host_fri1|¡Hola! ¿Te puedo pedir algo de plata prestada este mes? ¡Voy a tratar de devolverte el mes que viene!|Mucho no te puedo prestar, ya aporto lo que puedo.||fam2_host_fri2
+|||No sé. En realidad necesito contarte algo.||fam2_host_fri3
+fam2_host_fri2|Si, lo que puedas. Surgieron gastos imprevistos.||Me fijo cuánto te puedo prestar.||fam2_host_fri4
+fam2_host_fri4|Si podés, ¿eh? Sino veo a quién le pido.||No te preocupes, algo tengo, si no te alcanza le pedís el resto a alguien más.||
+|||Si, veo. En realidad quiero hablar con vos.||fam2_host_fri3
+fam2_host_fri3|Dale, pongo unos mates y hablamos.||Cambié de idea, lo hablamos en otro momento.||fam_host_fri5
+|||Me dio positivo un estudio de VIH que me hice.||fam2_host_fri7
+fam_host_fri5|Bueno, no te voy a obligar a hablar si no querés, pero sabés que si necesitás un oído, acá estoy.||Si, gracias.||
+fam2_host_fri7|Hijo… La verdad, no esperaba esto. Pero lo que te pasa a vos, nos pasa. Vamos a salir adelante. ||No sé… no caigo.||fam2_host_fri8
+|||Si, da miedo pero creo que voy a estar bien. Gracias por el apoyo.||fam2_host_fri9
+fam2_host_fri9|||Vení, dame un abrazo. Te quiero, pibe.||
+fam2_host_fri8|Claro, me imagino. Mirá, tenemos suerte, hoy el VIH es una enfermedad crónica.||Ya sé. Igual me asustan miles de cosas.||fam2_host_fri10
+|||Sí, ya me dijeron que los efectos secundarios de la medicación hoy no son tan severos, pero igual.||fam2_host_fri11
+fam2_host_fri10|Y si. Pero la vida asusta. Ahora lo importante es que hagas caso a todo lo que te digan los médicos, y seas constante con la medicación.||Sí, es la idea.||
+fam2_host_fri11|Si, mirá, mucho no sé de los efectos secundarios pero vamos a investigar. Vamos a hablar con todos los médicos que haga falta.||Gracias, sí, hagamos eso.||
+fam2_host_pan1|¡Hola! Oime, necesito pedirte algo de plata porque vinieron gastos extra.||Aporto lo que puedo, algo más te puedo dar pero no mucho.||fam2_host_pan2
+|||¿Podemos hablar después de esto? Tengo algo que decirte antes.||fam2_host_pan3
+fam2_host_pan2|Hacé un esfuerzo. Este mes vamos a estar ajustados.||Bueno, veo cuánto te puedo dar.||fam2_host_pan4
+fam2_host_pan4|Lo más que puedas, estamos complicados.||Te dije que veo cuánto te puedo dar.||
+|||Si, me fijo. ¿Podemos hablar de algo, ahora?||fam2_host_pan3
+fam2_host_pan3|¿De qué querés hablar? Mirá que si es plata no tengo, jaja.||No, qué se yo, cosas. Mejor hablamos otro día.||fam2_host_pan5
+|||Me dio positivo un estudio de VIH que me hice.||fam2_host_pan7
+fam2_host_pan5|Como quieras.||
+fam2_host_pan7|¿Cómo? ¡No! ¡No puede ser! ¡Es espantoso!||Tampoco te pongas así.||fam2_host_pan8
+|||Esperaba otra respuesta.||fam2_host_pan9
+fam2_host_pan9|¡Pero me estás diciendo que tenés una enfermedad mortal! ¿Cómo esperás que reaccione?||Informate, eso espero que hagas.||
+fam2_host_pan8|¿Cómo querés que me ponga? ¡Es lo peor que me podías decir!||¿Podés calmarte un poco? ¡No me estás ayudando||fam2_host_pan11
+|||No, hay cosas peores.||fam2_host_pan10
+fam2_host_pan10|¿Y tan tranquilo te quedás, después de esta bomba que me tiraste?||Cuando te calmes lo hablamos.||
+fam2_host_pan11|¿Cómo hago para calmarme? ¡Me estás diciendo que mi hijo se va a morir! ||Todos vamos a morir.||fam2_host_pan12
+fam2_host_pan12|Sí, ¡pero no ahora!.||Yo tampoco me voy a morir ahora. Necesito que te calmes para poder hablar bien de esto.||
+fam2_host_rej1|Al fin aparecés. Ya que sos un parásito en esta casa, este mes necesito más plata.||Pero yo ya aporto lo que puedo.||fam2_host_rej2
+|||¿Tenemos que hablar ahora de plata? Te quiero hablar de otra cosa.||fam2_host_rej3
+fam2_host_rej2|Y bueno, este mes gastarás menos en salidas con tus amiguitos.||No es justo.||fam2_host_rej4
+fam2_host_rej4|La vida no es justa, acostumbrate.||Bueno, después te escribo un cheque, no sé.||
+|||Ya sé que la vida no es justa. De eso te quiero hablar.||fam2_host_rej3
+fam2_host_rej3|¿De qué me querés hablar? No me vengas a llorar con tus problemas que yo tengo los mios.|| De nada, dejá.||fam2_host_rej5
+|||Me dio positivo un estudio de VIH que me hice.||fam2_host_rej7
+fam2_host_rej5|Y si, seguro me ibas a decir una pavada.||Si, está bien, no puedo hablar de nada con vos.||
+fam2_host_rej7|¿Qué? ¿Cómo que te dio positivo? ¿Qué quiere decir? ¿Tenés SIDA?||¡No! No tengo SIDA, tengo VIH.||fam2_host_rej8
+|||Me tendría que haber callado la boca. No se puede hablar con vos.||fam2_host_rej9
+fam2_host_rej9|¿Conmigo no se puede hablar? ¡Será con vos que no se puede hablar, que me traes SIDA!||
+fam2_host_rej8|¿Y por qué hacés la distinción? ¡Te vas a morir igual, poque yo no te puedo comprar remedios!||No me tenés que comprar nada, me los dan gratis.||fam2_host_rej10
+fam2_host_rej10|¿Gratis te los van a dar? ¿Vos qué te pensás, que te ven la cara y dicen uh, pobre y te dan remedios gratis? ¡No funciona así el mundo!||Se los dan gratis a todos los portadores de VIH||fam2_host_rej11
+|||No entendés nada||fam2_host_rej12
+fam2_host_rej11|¿En serio? Ah, entonces qué, ¿fuiste y te contagiaste porque total te dan remedios gratis?||No puedo seguir esta conversación.||
+fam2_host_rej12|¿Yo no entiendo nada? ¡Vos no entendés nada! Gratis, dice.||||
+fam2_host_unin1|¡Hola! Mirá, odio tener que pedirte esto, pero, ¿podés colaborar con algo más de plata este mes?||Un poco más puedo aportar, no mucho.||fam2_host_unin2
+|||No sé, no lo puedo pensar ahora. Tengo algo más en la cabeza.||fam2_host_unin3
+fam2_host_unin2|Es que aparecieron varios gastos extra. Sino no te pediría||Si, entiendo. Igual a mi tampoco me sobra.||fam2_host_unin4
+fam2_host_unin4|Ya sé, me imagino. Está complicado el tema.||Si, muy complicado.||
+|||Si, y no te das una idea de las complicaciones extra que tengo.||fam2_host_unin3
+fam2_host_unin3|¿Qué te anda pasando? ¿Me querés contar?||No, es todo un lío, después por ahí te cuento.||
+|||Me dio positivo un estudio de VIH que me hice.||fam2_host_unin7
+fam2_host_unin7|¿Qué? ¿Cómo? Pará… ¿me puedo contagiar?||Por llevar vida normal, no...||fam2_host_unin8
+|||No. Y necesito tu apoyo.||fam2_host_unin9
+fam2_host_unin9|||Esto es demasiado para procesar en este momento.||
+fam2_host_unin8|Igual por las dudas vamos a separar la vajilla… ¡es una enfermedad mortal!||¡No se contagia por compartir vajilla!||fam2_host_unin10                         
+|||No, es una enfermedad crónica.||fam2_host_pan11
+fam2_host_unin10|Bueno, igual me da más tranquilidad tomar ese recaudo.||Como quieras.||
+fam2_host_unin11|¿Crónica? ||Claro. Con medicación puedo vivir tanto como cualquier persona.||fam2_host_unin12
+fam2_host_unin12|||¿En serio? Bueno, se nota que no sé mucho de esto, voy a tratar de aprender más.||
+!!endBlock||||||
