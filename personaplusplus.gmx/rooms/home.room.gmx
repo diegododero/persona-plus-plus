@@ -10,7 +10,22 @@
   <persistent>0</persistent>
   <colour>0</colour>
   <showcolour>-1</showcolour>
-  <code></code>
+  <code>fam1 = instance_create(600, 60, obj_relative);
+fam1.name = "fam1";
+fam2 = instance_create(450, 390, obj_relative);
+fam2.name = "fam2";
+
+friend1 = instance_create(400, 350, obj_friend);
+friend1.name = "fri1";
+
+friend2 = instance_create(650, 65, obj_friend);
+friend2.name = "fri2";
+
+office1 = instance_create(370, 350, obj_friend);
+office1.name = "ofi1";
+
+office2 = instance_create(680, 65, obj_friend);
+office2.name = "ofi2";</code>
   <enableViews>0</enableViews>
   <clearViewBackground>0</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>
@@ -233,8 +248,6 @@
     <instance objName="obj_largewall" x="300" y="300" name="inst_DB2C01E2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_largewall" x="930" y="300" name="inst_595AEB52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_player" x="120" y="120" name="inst_3C344BA9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_npc" x="360" y="150" name="inst_F940B475" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_init" x="210" y="0" name="inst_1B6EE8D5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

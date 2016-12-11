@@ -67,26 +67,28 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>distancia= point_distance(x,y,obj_player.x,obj_player.y);
+            <string>distancia= point_distance(x, y, obj_player.x, obj_player.y);
 if (distancia &lt; 50)
 {
     if dialog_on
     { 
-    switch hostility
-    {
-        case npc_attitude.friendly:
-            dialogtag="fam1_host_fri1";
+        switch hostility
+        {
+            case npc_attitude.friendly:
+                dialogtag = "host_fri1";
+                break;
+            case npc_attitude.panic:
+                dialogtag = "host_pan1";
+                break;
+            case npc_attitude.reject:
+                dialogtag = "host_unin1";
             break;
-        case npc_attitude.panic:
-            dialogtag="fam1_host_pan1";
-            break;
-        case npc_attitude.reject:
-        dialogtag="fam1_host_uni1";
-        break;
-        case npc_attitude.uninformed:
-            dialogtag="fam1_host_rej1";
-            break;
-    }
+            case npc_attitude.uninformed:
+                dialogtag = "host_rej1";
+                break;
+        }
+    //dialogtag = "fam1_host_fri1";
+    dialogtag = name + "_" + dialogtag
     //Create a dialogue box to attach to.
     //This dialogue box is running text collected from the tag "intro0" from the .csv file and is using the category "default_category". Check scr_juju_dialogue() for more on categories.
     var boxInst = scr_juju_dialogue( 30, 600, dialogtag, "default_category" );
