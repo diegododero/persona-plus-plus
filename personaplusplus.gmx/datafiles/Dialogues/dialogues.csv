@@ -40,7 +40,7 @@ fam1_host_rej3|¿De qué tenemos que hablar? Más te vale que no sean excusas para 
 |||Me hice el estudio de VIH. Soy positivo.||fam1_host_rej7
 fam1_host_rej7|¿Qué? ¿Qué estás diciendo? ¿Tenés SIDA? Me muero, ¡nos vamos a contagiar todos y nos vamos a morir por tu culpa!||¡No! No quise decir eso. Nadie se va a morir, no te voy a contagiar por respirarte encima.||fam1_host_rej8
 |||No tendría que haberte dicho nada. Nunca vas a entender.||fam1_host_rej9
-fam1_host_rej9|||¿Por qué Dios me castiga así?||
+fam1_host_rej9|¿Por qué Dios me castiga así?||||
 fam1_host_rej8|¡Más te vale que no me pegues nada! ¡Vos nunca pensás en tu familia!||Mirá, te dejo un folleto, cuando te calmes, mejor leelo.||fam1_host_rej10
 fam1_host_rej10|||¿Por qué nos pasa esto? Si no somos como esas familias...||
 fam1_host_unin1|¡Hola! Pensé que estabas en casa, hace un rato me di cuenta que no. ¿Dónde estabas?||Tenía que salir.||fam1_host_unin2
@@ -126,10 +126,10 @@ fri1_host_rej1|Pensé que no ibas a venir. Estás desaparecido últimamente.||Ando 
 fri1_host_rej2|Vos siempre con problemas. Tomate un mate conmigo y contame, que para eso están los amigos.||Nada que pueda solucionar, problemas de laburo.||fri1_host_rej4
 |||Estoy con un tema de salud, pero no quiero preocuparlos mucho.||fri1_host_rej5
 fri1_host_rej4|¿Está muy complicada la cosa?||Y si, con esto de la crisis, los jefes se abusan porque nadie quiere quedarse afuera.||fri1_host_rej6
-||No tanto, pero estoy con un tema de salud y tengo miedo de que mi jefe se entere.|fri1_host_rej7
+|||No tanto, pero estoy con un tema de salud y tengo miedo de que mi jefe se entere.||fri1_host_rej7
 fri1_host_rej6|Pero vos sos trabajador. Mientras no seas un ñoqui no te va a pasar nada.||A Hernan lo echaron hace poco, y no era un ñoqui.||fri1_host_rej8
 fri1_host_rej8|Hernan tiene problemitas y puso de excusa que lo echaron porque la empresa quiere cerrar.||Me consta que su empresa está mal, yo le creo.||fri1_host_rej9
-||Mejor hablemos de otra cosa, esto es una fiesta.|||
+|||Mejor hablemos de otra cosa, esto es una fiesta.||
 fri1_host_rej9|Vos porque sos opositor. Ya te vas a dar cuenta que las cosas no están tan mal y que tus problemas son infundados.||
 fri1_host_rej7|Pero la ley no le permite echarte por eso, así que eso no va a pasar. Te preocupás mucho.||Las cosas pasan igual, existan o no esas leyes. Le encuentran la manera.||fri1_host_rej10
 fri1_host_rej10|Eso suena conspirativo. La realidad es una: las leyes te protegen. Y si te echan es porque no estabas cumpliendo tu trabajo.||
