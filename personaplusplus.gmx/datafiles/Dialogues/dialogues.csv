@@ -30,7 +30,7 @@ fam1_host_pan9|¿Y cómo querés que no me haga drama si mi propio hijo se está mur
 fam1_host_pan8|Es muy dificil calmarse cuando tu propio hijo te dice que tiene una enfermedad horrible...||No te voy a decir que vaya a ser fácil, pero necesito tu apoyo.||fam1_host_pan10
 fam1_host_pan10|||Si, es verdad, me necesitás. Yo necesito algo de tiempo para calmarme un poco, pero acá estoy.||
 fam1_host_rej1|¡Hola! Llegá a la hora que te parezca, dale, total esto es un hotel.  ¿Dónde estabas?||Nada. Haciendo cosas.||fam1_host_rej2
-|||No importa. Tenemos que hablar.|||fam1_host_rej3
+|||No importa. Tenemos que hablar.||fam1_host_rej3
 fam1_host_rej2|¿Cosas? ¡Tan vago me saliste! Tendrías que estar ayudando en la casa.||Tengo cosas más importantes en la cabeza.||fam1_host_rej4
 fam1_host_rej4|¿Qué es más importante que tus obligaciones?||No importa, no entenderías.||fam1_host_rej5
 |||Sentate, tenemos que hablar.||fam1_host_rej3
@@ -39,9 +39,9 @@ fam1_host_rej6|||Andá, a ver si todavía me podés salir bueno.||
 fam1_host_rej3|¿De qué tenemos que hablar? Más te vale que no sean excusas para llegar a la hora que se te da la gana.|| De nada, dejá.||fam1_host_rej5
 |||Me hice el estudio de VIH. Soy positivo.||fam1_host_rej7
 fam1_host_rej7|¿Qué? ¿Qué estás diciendo? ¿Tenés SIDA? Me muero, ¡nos vamos a contagiar todos y nos vamos a morir por tu culpa!||¡No! No quise decir eso. Nadie se va a morir, no te voy a contagiar por respirarte encima.||fam1_host_rej8
-|||No tendría que haberte dicho nada. Nunca vas a entender.|||fam1_host_rej9
+|||No tendría que haberte dicho nada. Nunca vas a entender.||fam1_host_rej9
 fam1_host_rej9|||¿Por qué Dios me castiga así?||
-fam1_host_rej8|¡Más te vale que no me pegues nada! ¡Vos nunca pensás en tu familia!||Mirá, te dejo un folleto, cuando te calmes, mejor leelo.|||fam1_host_rej10
+fam1_host_rej8|¡Más te vale que no me pegues nada! ¡Vos nunca pensás en tu familia!||Mirá, te dejo un folleto, cuando te calmes, mejor leelo.||fam1_host_rej10
 fam1_host_rej10|||¿Por qué nos pasa esto? Si no somos como esas familias...||
 fam1_host_unin1|¡Hola! Pensé que estabas en casa, hace un rato me di cuenta que no. ¿Dónde estabas?||Tenía que salir.||fam1_host_unin2
 |||No importa. Tengo que decirte algo.||fam1_host_unin3
@@ -53,13 +53,13 @@ fam1_host_unin6|Bueno, si se te ocurre un regalo en serio me decís.||
 fam1_host_unin3|¿Qué me querés decir?|| Quiero ir a aprender japonés.||fam1_host_unin11
 |||Me hice el estudio de VIH. Soy positivo.||fam1_host_unin7
 fam1_host_unin11|¿Japonés? Me parece que tendrías que estudiar un idioma más útil.
-fam1_host_unin7|¿Cómo que tenés SIDA? ¿Me estás hablando en serio? ¿Cómo pasó?||¿Qué importa? ¿Acaso cambia algo saber cómo pasó? |fam1_host_unin9
+fam1_host_unin7|¿Cómo que tenés SIDA? ¿Me estás hablando en serio? ¿Cómo pasó?||¿Qué importa? ¿Acaso cambia algo saber cómo pasó?||fam1_host_unin9
 |||No tengo SIDA. Tengo VIH. No es lo mismo.||fam1_host_unin8
 fam1_host_unin9|Es que me resulta demasiado terrible. No sé cómo manejar esto.
 fam1_host_unin8|¿Cómo que no es lo mismo?||No. Con medicación el VIH es una enfermedad crónica, como la diabetes.||fam1_host_unin10
 |||No puedo creer que no tengas idea de nada.||
 fam1_host_unin10|Entonces… ¿no te estás por morir?||No. Te dejo un folleto que me dieron, leelo por favor.
-fam2_host_fri1|¡Hola! ¿Te puedo pedir algo de plata prestada este mes? ¡Voy a tratar de devolverte el mes que viene!|Mucho no te puedo prestar, ya aporto lo que puedo.||fam2_host_fri2
+fam2_host_fri1|¡Hola! ¿Te puedo pedir algo de plata prestada este mes? ¡Voy a tratar de devolverte el mes que viene!||Mucho no te puedo prestar, ya aporto lo que puedo.||fam2_host_fri2
 |||No sé. En realidad necesito contarte algo.||fam2_host_fri3
 fam2_host_fri2|Si, lo que puedas. Surgieron gastos imprevistos.||Me fijo cuánto te puedo prestar.||fam2_host_fri4
 fam2_host_fri4|Si podés, ¿eh? Sino veo a quién le pido.||No te preocupes, algo tengo, si no te alcanza le pedís el resto a alguien más.||
@@ -121,107 +121,107 @@ fam2_host_unin8|Igual por las dudas vamos a separar la vajilla… ¡es una enfermed
 fam2_host_unin10|Bueno, igual me da más tranquilidad tomar ese recaudo.||Como quieras.||
 fam2_host_unin11|¿Crónica? ||Claro. Con medicación puedo vivir tanto como cualquier persona.||fam2_host_unin12
 fam2_host_unin12|||¿En serio? Bueno, se nota que no sé mucho de esto, voy a tratar de aprender más.||
-fri1_host_rej1|Pensé que no ibas a venir. Estás desaparecido últimamente.||Ando con muchas cosas en la cabeza.|fri1_host_rej2
-||Tenía ganas de salir un poco y verlos. También los extraño.||fri1_host_rej3
-fri1_host_rej2|Vos siempre con problemas. Tomate un mate conmigo y contame, que para eso están los amigos.||Nada que pueda solucionar, problemas de laburo.|fri1_host_rej4
+fri1_host_rej1|Pensé que no ibas a venir. Estás desaparecido últimamente.||Ando con muchas cosas en la cabeza.||fri1_host_rej2
+||Tenía ganas de salir un poco y verlos. También los extraño.|||fri1_host_rej3
+fri1_host_rej2|Vos siempre con problemas. Tomate un mate conmigo y contame, que para eso están los amigos.||Nada que pueda solucionar, problemas de laburo.||fri1_host_rej4
 |||Estoy con un tema de salud, pero no quiero preocuparlos mucho.||fri1_host_rej5
-fri1_host_rej4|¿Está muy complicada la cosa?||Y si, con esto de la crisis, los jefes se abusan porque nadie quiere quedarse afuera.|fri1_host_rej6
+fri1_host_rej4|¿Está muy complicada la cosa?||Y si, con esto de la crisis, los jefes se abusan porque nadie quiere quedarse afuera.||fri1_host_rej6
 ||No tanto, pero estoy con un tema de salud y tengo miedo de que mi jefe se entere.|fri1_host_rej7
-fri1_host_rej6|Pero vos sos trabajador. Mientras no seas un ñoqui no te va a pasar nada.||A Hernan lo echaron hace poco, y no era un ñoqui.|fri1_host_rej8
-fri1_host_rej8|Hernan tiene problemitas y puso de excusa que lo echaron porque la empresa quiere cerrar.||Me consta que su empresa está mal, yo le creo.|fri1_host_rej9
+fri1_host_rej6|Pero vos sos trabajador. Mientras no seas un ñoqui no te va a pasar nada.||A Hernan lo echaron hace poco, y no era un ñoqui.||fri1_host_rej8
+fri1_host_rej8|Hernan tiene problemitas y puso de excusa que lo echaron porque la empresa quiere cerrar.||Me consta que su empresa está mal, yo le creo.||fri1_host_rej9
 ||Mejor hablemos de otra cosa, esto es una fiesta.|||
 fri1_host_rej9|Vos porque sos opositor. Ya te vas a dar cuenta que las cosas no están tan mal y que tus problemas son infundados.||
 fri1_host_rej7|Pero la ley no le permite echarte por eso, así que eso no va a pasar. Te preocupás mucho.||Las cosas pasan igual, existan o no esas leyes. Le encuentran la manera.||fri1_host_rej10
 fri1_host_rej10|Eso suena conspirativo. La realidad es una: las leyes te protegen. Y si te echan es porque no estabas cumpliendo tu trabajo.||
-fri1_host_rej5|Ya me preocupaste. Debe ser algo serio.||Me dio positivo el test de HIV.|fri1_host_rej11
-||Nada, una infección nomás. Pero tengo que tomarme horas para ir al médico y ver que la obra social me cubra todo. Me preocupa que mi jefe pierda la paciencia.||fri1_host_rej7
-fri1_host_rej11|¿En serio me decís? Y yo tomando mate con vos lo más tranquilo, sos un forro.||Tengo una enfermedad crónica, no es motivo para que me insultes.|fri1_host_rej12
-||No exageres, es un mate. No te vas a contagiar por compartir una bombilla.|fri1_host_rej13
-fri1_host_rej12|¿Te parece poco? Venís acá, con tus virus de mierda y ni siquiera se te ocurre avisarnos antes, para que podamos decidir si queremos compartir el espacio con vos.||Si te digo o no, es mi derecho.|fri1_host_rej14
+fri1_host_rej5|Ya me preocupaste. Debe ser algo serio.||Me dio positivo el test de HIV.||fri1_host_rej11
+|||Nada, una infección nomás. Pero tengo que tomarme horas para ir al médico y ver que la obra social me cubra todo. Me preocupa que mi jefe pierda la paciencia.||fri1_host_rej7
+fri1_host_rej11|¿En serio me decís? Y yo tomando mate con vos lo más tranquilo, sos un forro.||Tengo una enfermedad crónica, no es motivo para que me insultes.||fri1_host_rej12
+|||No exageres, es un mate. No te vas a contagiar por compartir una bombilla.||fri1_host_rej13
+fri1_host_rej12|¿Te parece poco? Venís acá, con tus virus de mierda y ni siquiera se te ocurre avisarnos antes, para que podamos decidir si queremos compartir el espacio con vos.||Si te digo o no, es mi derecho.||fri1_host_rej14
 fri1_host_rej14|Dejó de ser tu derecho cuando hiciste quién sabe qué y te contagiaste. Lo siento si te molesta, pero no voy a exponerme a tu enfermedad mortal por ser políticamente correcto. Si fueras una buena persona, te irías ahora.|||
 fri1_host_rej13|Yo tengo derecho a reaccionar como quiera. Ponele que no me contagies con una bombilla, pero no me podés sacar mi derecho de estar en un ambiente seguro para mí. No tengo más para decirte.|||
 fri1_host_fri1|¡Uh, viniste, qué bueno! Hace cuánto que no te veo, ¿cómo andas?||Acá, con cosas en la cabeza.||fri1_host_fri2
 |||Bien, bien. Todo tranqui.||fri1_host_fri3
 fri1_host_fri2|¿Muchas preocupaciones? Vení, tomate un mate conmigo y contame.||Es que me hice el test de VIH y me dio positivo. Todavía no sé cómo procesarlo||fri1_host_fri4
-fri1_host_fri4|Uh, no, boludo, todo mal. ¿Estás bien? ¿Estás con la medicación? Perdoname, te estoy haciendo muchas preguntas, ¿no?||Nah, todo bien. Es entendible.|fri1_host_fri5
-|||Si, me estás acribillando. Prefiero hablar de otra cosa.|fri1_host_fri6
-fri1_host_fri5|Mejor, porque yo sé poco de esto, así que perdoname si digo una boludez. Pero sé que mate podemos tomar, así que acá tenés uno bien amargo como te gusta.|Gracias. Contame vos qué es de tu vida.||fri1_host_fri7
+fri1_host_fri4|Uh, no, boludo, todo mal. ¿Estás bien? ¿Estás con la medicación? Perdoname, te estoy haciendo muchas preguntas, ¿no?||Nah, todo bien. Es entendible.||fri1_host_fri5
+|||Si, me estás acribillando. Prefiero hablar de otra cosa.||fri1_host_fri6
+fri1_host_fri5|Mejor, porque yo sé poco de esto, así que perdoname si digo una boludez. Pero sé que mate podemos tomar, así que acá tenés uno bien amargo como te gusta.||Gracias. Contame vos qué es de tu vida.||fri1_host_fri7
 fri1_host_fri7|Les contaba acá que es medio un quilombo el laburo. Cuando lleguen todos les cuento porque esta semana me pasó algo de no creer.||||
 fri1_host_fri6|Está bien, pero si necesitás hablar, me avisás.||Dale. Bueno, pasame un mate y contame.||fri1_host_fri7
-fri1_host_fri3|Me alegro. Yo estoy con problemas por todos lados.||Contame.|fri1_host_fri8
-fri1_host_fri8|Esa pregunta da para largo, así que si tenés algo para contar empezá vos.|Mi vida es lo de siempre, el laburo, la familia. Vos, en cambio siempre tenés anécdotas.||fri1_host_fri7
+fri1_host_fri3|Me alegro. Yo estoy con problemas por todos lados.||Contame.||fri1_host_fri8
+fri1_host_fri8|Esa pregunta da para largo, así que si tenés algo para contar empezá vos.||Mi vida es lo de siempre, el laburo, la familia. Vos, en cambio siempre tenés anécdotas.||fri1_host_fri7
 |||Está bien, hace poco me hice el test de HIV y me dio positivo.||fri1_host_fri4
 fri1_host_unin1|Qué bueno que me enteré de hoy. Casi no vengo porque no vi el mensajito.||Menos mal que viniste, hace tiempo que no nos vemos.||fri1_host_unin2
-fri1_host_unin2| Tenés razón. Contame de tu vida. ¿Mate?||Dale. No sé qué contarte. Tengo un tema de salud, pero lo estoy llevando bien.|fri1_host_unin3
+fri1_host_unin2| Tenés razón. Contame de tu vida. ¿Mate?||Dale. No sé qué contarte. Tengo un tema de salud, pero lo estoy llevando bien.||fri1_host_unin3
 ||Dale, un buen amargo me vendría bien. Quería contarte en persona, me dio positivo el test de HIV.|fri1_host_unin4
-fri1_host_unin3|¿Por eso te desapareciste?||Si. Tenía que pensar muchas cosas.|fri1_host_unin5
+fri1_host_unin3|¿Por eso te desapareciste?||Si. Tenía que pensar muchas cosas.||fri1_host_unin5
 fri1_host_unin5|¿Es algo grave? Te noto serio.||Es controlable, pero me tengo que acostumbrar a tomar los remedios todos los días.||fri1_host_unin6
-||Es algo crónico. Así que me tengo que cuidar de por vida.||fri1_host_unin7
+||Es algo crónico. Así que me tengo que cuidar de por vida.|||fri1_host_unin7
 fri1_host_unin6|Menos mal. Bueno, cuidate y si necesitás algo, decime.||
-fri1_host_unin7|Qué feo. ¿Y no hay cura de eso que tenés? Por cierto, ¿qué tenés?||VIH.|fri1_host_unin4
+fri1_host_unin7|Qué feo. ¿Y no hay cura de eso que tenés? Por cierto, ¿qué tenés?||VIH.||fri1_host_unin4
 ||Un problema en la sangre. Y no tiene cura por ahora, pero con la medicación podés tener una vida normal.|fri1_host_unin9
 fri1_host_unin9|Cuidate entonces, que quiero amigo para rato.||
 fri1_host_unin4|¿En serio? ¿VIH? ¿Cómo te contagiaste?||No importa cómo me contagié, importa que me hice el análisis y ahora puedo empezar el tratamiento.||fri1_host_unin10
 ||¿Te parece que lo más importante ahora es saber los chismes?|fri1_host_unin11
 fri1_host_unin10|Tenés razón, supongo. Hagamos algo, otro día nos juntamos a tomar un café y me explicás bien, ¿puede ser?
-fri1_host_unin11|A mí me parece importante. Mirá si fue haciendo algo que hacemos todos.||Si querés te paso un sitio donde te explica bien y te fijas. O mejor, hacete el test vos también.|fri1_host_unin12
-fri1_host_unin12|Pasame el link. Lo otro lo voy a pensar.||
-fri1_host_fri1|Qué hacés desaparecido.Tomá, tené un mate, aunque no te lo merecés.||¡Eh, no exageres! no hace tanto que no nos vemos.|fri1_host_fri2
+fri1_host_unin11|A mí me parece importante. Mirá si fue haciendo algo que hacemos todos.||Si querés te paso un sitio donde te explica bien y te fijas. O mejor, hacete el test vos también.||fri1_host_unin12
+fri1_host_unin12|Pasame el link. Lo otro lo voy a pensar.||||
+fri1_host_fri1|Qué hacés desaparecido.Tomá, tené un mate, aunque no te lo merecés.||¡Eh, no exageres! no hace tanto que no nos vemos.||fri1_host_fri2
 ||Perdón, es que estoy con mil cosas. Necesitaba tiempo conmigo.||fri1_host_fri3
-fri1_host_fri2|No me digas que exagero. Te dejé varios mensajes y no me respondiste.||Dos, y uno era para avisarme de hoy. Ese lo respondí.|fri1_host_fri4
+fri1_host_fri2|No me digas que exagero. Te dejé varios mensajes y no me respondiste.||Dos, y uno era para avisarme de hoy. Ese lo respondí.||fri1_host_fri4
 ||Tenés razón, perdoname. Es que necesitaba tiempo para procesar cosas.|fri1_host_fri3
-fri1_host_fri3|Me estás asustando. ¿Te pasó algo?||Me hice unos análisis y tengo un problema en la sangre. No es nada, pero voy a tener que tomar pastillas y hacerme controles.|fri1_host_fri5
+fri1_host_fri3|Me estás asustando. ¿Te pasó algo?||Me hice unos análisis y tengo un problema en la sangre. No es nada, pero voy a tener que tomar pastillas y hacerme controles.||fri1_host_fri5
 ||Si... Me dio positivo el VIH.|fri1_host_fri6
-fri1_host_fri5|¿Es cancer? Hacete bien los controles, mirá que la tía de Santiago se murió porque no la diagnosticaron bien.||No te hagas la película. No te preocupes, estoy controlado.|fri1_host_fri7
-||¡No es cancer! Es HIV.|fri1_host_fri6
+fri1_host_fri5|¿Es cancer? Hacete bien los controles, mirá que la tía de Santiago se murió porque no la diagnosticaron bien.||No te hagas la película. No te preocupes, estoy controlado.||fri1_host_fri7
+|||¡No es cancer! Es HIV.||fri1_host_fri6
 fri1_host_fri7|Está bien, te creo. Pero fijate de pedir una segunda opinión, por las dudas.||||
 fri1_host_fri6|Eso es muy contagioso. Me tendrías que haber dicho antes de que te de el mate.||Estás diciendo una idiotez, no te voy a contagiar con el mate.||fri1_host_fri8
-||No te contagias con el mate. Si querés te linkeo un sitio con info posta.||fri1_host_fri9
-fri1_host_fri8|No me digas idiota. No tenés derecho a tratarme así.||No dije que eras idiota, dije que dijiste una idiotez.|fri1_host_fri10
-fri1_host_fri10|Alguien que dice una idiotez es un idiota. Y prefiero ser idiota que mala gente.||¿Y qué me hace ser mala gente?|fri1_host_fri11
-||No voy a seguir esta conversación. Si querés después lo hablamos, ahora no puedo.||||
+|||No te contagias con el mate. Si querés te linkeo un sitio con info posta.||fri1_host_fri9
+fri1_host_fri8|No me digas idiota. No tenés derecho a tratarme así.||No dije que eras idiota, dije que dijiste una idiotez.||fri1_host_fri10
+fri1_host_fri10|Alguien que dice una idiotez es un idiota. Y prefiero ser idiota que mala gente.||¿Y qué me hace ser mala gente?||fri1_host_fri11
+|||No voy a seguir esta conversación. Si querés después lo hablamos, ahora no puedo.||
 fri1_host_fri9|Bueno, tampoco me trates de ignorante.||Entonces no digas pavadas.||fri1_host_fri12
-||No te dije ignorante, te lo digo para que te quedes tranquilo.||fri1_host_fri13
+|||No te dije ignorante, te lo digo para que te quedes tranquilo.||fri1_host_fri13
 fri1_host_fri13| Está bien. ¿Estás seguro que no te estás muriendo?||
 fri1_host_fri12|No son pavadas. Venís acá, tirás esa bomba y querés que reaccionemos como si nada. Vos fijate.||
--fri1_host_fri11|Tenés una enfermedad contagiosa, venís como si nada sin avisar y sin dejarnos la oportunidad de cuidarnos.|| A ver si entendés: no están en peligro por compartir el espacio conmigo.|fri1_host_fri14
+fri1_host_fri11|Tenés una enfermedad contagiosa, venís como si nada sin avisar y sin dejarnos la oportunidad de cuidarnos.|| A ver si entendés: no están en peligro por compartir el espacio conmigo.||fri1_host_fri14
 fri1_host_fri14|Lo siento por querer cuidarme. Si vos fuiste irresponsable es tu problema, no el mío.|||
-fri2_host_unin1|No te hice probar la cerveza que hicimos con mi hermano, ¿no? Tomá, compartamos el vaso.||Gracias. Me gusta mucho. ¡Felicitaciones!|fri2_host_unin2
-||Dale, compartamos que no quiero tomar demasiado.|fri2_host_unin3
-fri2_host_unin2|Estamos orgullosos de cómo salió. Contame vos que hiciste en este tiempo.|No mucho, no me sentía bien y me estuve haciendo análisis.|fri2_host_unin4
+fri2_host_unin1|No te hice probar la cerveza que hicimos con mi hermano, ¿no? Tomá, compartamos el vaso.||Gracias. Me gusta mucho. ¡Felicitaciones!||fri2_host_unin2
+|||Dale, compartamos que no quiero tomar demasiado.||fri2_host_unin3
+fri2_host_unin2|Estamos orgullosos de cómo salió. Contame vos que hiciste en este tiempo.|No mucho, no me sentía bien y me estuve haciendo análisis.||fri2_host_unin4
 fri2_host_unin3|¿Te estás cuidando?||Trato.||fri2_host_unin5
 fri2_host_unin5|Está bueno cuidarse. ¿Querés dejar la mala vida?||Jajajaja, sí, quiero estar bien y sentirme bien.||fri2_host_unin6
-||Es un poco más serio. Me hice el test de VIH y me dio positivo.|fri2_host_unin7
-fri2_host_unin6|Todos deberíamos hacer lo mismo. Vení que te hago probar la Stout que sacamos, que todavía no la probó nadie más.||
-fri2_host_unin4|¿Ya te dieron los resultados?||Si, me dio positivo el test de VIH.|fri2_host_unin7
-||No, todavía no. La otra semana.|fri2_host_unin8
-fri2_host_unin8|Avisame cuando te los den, así no me preocupo.||
-fri2_host_unin7|Me dejás mal. Nunca pensé que uno de nosotros se iba a morir joven.||Hoy hay medicación, no te preocupes que puedo vivir una vida más larga que la tuya.|fri2_host_unin9
-||Es un poco duro lo que me estás diciendo.|fri2_host_unin10
-fri2_host_unin9|Pero te vas a morir de SIDA, vos sos mi amigo y me duele.||VIH y SIDA no son lo mismo. Hoy hay muchos tratamientos y puedo llegar a vivir una vida normal.|fri2_host_unin11
-fri2_host_unin11|Esto no es normal. ¿Escuchás lo que estás diciendo?||Hablé mucho con mi médico y leí todo lo que pude.|fri2_host_unin12
-||Yo soy el portador, y sé de qué hablo. Estoy tratando de ser positivo y hacer todo bien, como me dijo el médico. Lo que necesitaba era apoyo de tu parte.||
+|||Es un poco más serio. Me hice el test de VIH y me dio positivo.||fri2_host_unin7
+fri2_host_unin6|Todos deberíamos hacer lo mismo. Vení que te hago probar la Stout que sacamos, que todavía no la probó nadie más.||||
+fri2_host_unin4|¿Ya te dieron los resultados?||Si, me dio positivo el test de VIH.||fri2_host_unin7
+|||No, todavía no. La otra semana.||fri2_host_unin8
+fri2_host_unin8|Avisame cuando te los den, así no me preocupo.||||
+fri2_host_unin7|Me dejás mal. Nunca pensé que uno de nosotros se iba a morir joven.||Hoy hay medicación, no te preocupes que puedo vivir una vida más larga que la tuya.||fri2_host_unin9
+|||Es un poco duro lo que me estás diciendo.||fri2_host_unin10
+fri2_host_unin9|Pero te vas a morir de SIDA, vos sos mi amigo y me duele.||VIH y SIDA no son lo mismo. Hoy hay muchos tratamientos y puedo llegar a vivir una vida normal.||fri2_host_unin11
+fri2_host_unin11|Esto no es normal. ¿Escuchás lo que estás diciendo?||Hablé mucho con mi médico y leí todo lo que pude.||fri2_host_unin12
+|||Yo soy el portador, y sé de qué hablo. Estoy tratando de ser positivo y hacer todo bien, como me dijo el médico. Lo que necesitaba era apoyo de tu parte.||
 fri2_host_unin12|No me vas a convencer que esto es normal. Eso es algo que te dice el médico para llenarte de pastillas. Normal es estar sano, no esto.||
 fri2_host_unin10|La verdad siempre es dura. Si vos no querés oirla es otra cosa.||
-fri2_host_fri1|Qué bueno que pudiste venir. Te extrañaba.||Yo también, pero necesitaba un poco de tiempo para mí.|fri2_host_fri2
-fri2_host_fri2|Me gusta escuchar que te cuides. Tomá, probá esta cerveza que hicimos con mi hermano y contame más.||Me estuve haciendo análisis porque no me sentía bien.|fri2_host_fri3
-||Quería contarte esto personalmente. Me hice el test de VIH y me dio positivo.||fri2_host_fri4
-fri2_host_fri3|¿Ya te dieron los resultados?||No, todavía no.|fri2_host_fri5
-||Si, pero no es nada, una infección nomás. Tengo que tomar unos remedios y hacer vida sana.|fri2_host_fri6
+fri2_host_fri1|Qué bueno que pudiste venir. Te extrañaba.||Yo también, pero necesitaba un poco de tiempo para mí.||fri2_host_fri2
+fri2_host_fri2|Me gusta escuchar que te cuides. Tomá, probá esta cerveza que hicimos con mi hermano y contame más.||Me estuve haciendo análisis porque no me sentía bien.||fri2_host_fri3
+|||Quería contarte esto personalmente. Me hice el test de VIH y me dio positivo.||fri2_host_fri4
+fri2_host_fri3|¿Ya te dieron los resultados?||No, todavía no.||fri2_host_fri5
+|||Si, pero no es nada, una infección nomás. Tengo que tomar unos remedios y hacer vida sana.||fri2_host_fri6
 fri2_host_fri6|Me alegro de escuchar eso. Seguro vas a estar bien enseguida.||
 fri2_host_fri5|Avisame si querés que te acompañe a buscarlos.||Gracias.||
-fri2_host_fri4|No sé que decirte. ¿Cómo te sentís?||Bien, estoy tratando de mantener el ánimo.|fri2_host_fri7
-||Todavía no caigo. Estoy haciendo todo lo que me dicen, pero es difícil de aceptar.|fri2_host_fri8
+fri2_host_fri4|No sé que decirte. ¿Cómo te sentís?||Bien, estoy tratando de mantener el ánimo.||fri2_host_fri7
+|||Todavía no caigo. Estoy haciendo todo lo que me dicen, pero es difícil de aceptar.||fri2_host_fri8
 fri2_host_fri7|Debe ser difícil. Si te sentís muy mal, llamame y hablamos, o hacemos algo. No estés solo.||
 fri2_host_fri8|Yo no sé mucho al respecto, pero vos mandame todo lo que quieras y lo vemos juntos.||Gracias, necesitaba esto.||fri2_host_fri9
 fri2_host_fri9|Somos amigos, ¿cómo no te voy a bancar en esta?||
 fri2_host_pan1|Probá esta cerveza y decime qué te parece.||Está muy buena. ¿Es la que hacen con tu hermano?||fri2_host_pan2
-fri2_host_pan2|Si, por eso estuvimos medio desaparecidos, nos llevó mucho tiempo armar todo.||Felicitaciones.|fri2_host_pan3
+fri2_host_pan2|Si, por eso estuvimos medio desaparecidos, nos llevó mucho tiempo armar todo.||Felicitaciones.||fri2_host_pan3
 fri2_host_pan3|Contate algo, estuviste medio desaparecido también.||Solamente estuve con mucho estrés en el laburo y no tenía ganas de hacer nada.||fri2_host_pan4
 |||Estoy con un problema de salud.||fri2_host_pan6
 fri2_host_pan4|Ya estás viejo. Tratá de no cortarte, con los pibes te extrañamos, y nos va a faltar uno para el equipo.||Bueno, avisen cuando vuelvan a jugar y vemos.||fri2_host_pan5
 fri2_host_pan5|||Y vemos... Te dije, estás hecho un viejo!||
-fri2_host_pan6|¡Uh, qué mal! Espero que no sea nada grave. Contame, ¿puedo hacer algo por vos?||No te preocupes, me tengo que cuidar y hacerme unos controles solamente. Pero a veces estoy cansado como para hacer cosas. Es eso, nada más.|fri2_host_pan4
+fri2_host_pan6|¡Uh, qué mal! Espero que no sea nada grave. Contame, ¿puedo hacer algo por vos?||No te preocupes, me tengo que cuidar y hacerme unos controles solamente. Pero a veces estoy cansado como para hacer cosas. Es eso, nada más.||fri2_host_pan4
 |||Me dio positivo el análisis de HIV. Lo sé desde hace poco.||fri2_host_pan7
 fri2_host_pan7|¡No! No me digas! Eso es super contagioso, ¿no?||Dejá de mirar el vaso, no se contagia por la saliva.||fri2_host_pan8
 |||No seas tan extremista. No te vas a contagiar porque pases tiempo conmigo.||fri2_host_pan9
@@ -233,22 +233,22 @@ fri2_host_pan10|¡Eh! No me contestes así, lo mío son dudas genuinas. Nosotros pa
 fri2_host_pan11|Tengo derecho a cuidarme. Es tu responsabilidad cuidar a tus amigos.||¿Me estás tildando de irresponsable?||fri2_host_pan12
 fri2_host_pan12|||Yo no quiero implicar nada, pero de algo te contagiaste. Mejor no nos peleemos ahora, no es el momento. Después hablamos.||
 fri2_host_pan13|||Tenés razón, no sé nada. Mejor dejemos esta conversación para después, tengo que ir a ver que haya hielo en el freezer.||
-fri2_host_rej1|Apareciste. Menos mal, ya ibamos a pensar que no te querías juntar con nosotros.||Jajaja, no hace tanto que no los veo.|1fri2_host_rej2
+fri2_host_rej1|Apareciste. Menos mal, ya ibamos a pensar que no te querías juntar con nosotros.||Jajaja, no hace tanto que no los veo.||fri2_host_rej2
 fri2_host_rej2|Ya que estás, hacé algo útil y probá esta cerveza que hicimos con mi hermano.||Está buena.||fri2_host_rej3
-fri2_host_rej3|Estamos bastante orgullosos. ¿Vos estuviste en algo interesante en este tiempo?||No mucho, lo de siempre.|fri2_host_rej4
-||De eso quería hablarte, por eso llegué temprano. Me hice el test de VIH y dio positivo.|fri2_host_rej5
-fri2_host_rej4|Así que nos dejaste por nada. Te esperamos para ir a jugar.||Tengo mucho cansancio últimamente, así que fui al médico.|fri2_host_rej6
-fri2_host_rej6|¿Tenés una peste?||Podría decirse.|fri2_host_rej7
-fri2_host_rej7|¡Cuánto misterio! ¿Es algo contagioso?||Si, pero en situaciones muy específicas. Así que no te preocupes que con vos está todo bien.|fri2_host_rej9
-fri2_host_rej9|Con tantas vueltas, seguro es una peste de transmisión sexual. Sos un asco.||¿Qué te pasa?|fri2_host_rej10
-fri2_host_rej10|Tengo razon, ¿no? Seguro anduviste por ahí sin cuidarte y ahora te cabe. Fijate que hacés, no me contagies a los invitados.
-fri2_host_rej5|Salí de acá. No me podés decir eso en mi casa mientras espero gente.||Pensé que éramos amigos y me ibas a entender.|fri2_host_rej11
-||No hay un momento especial para decir estas cosas.|fri2_host_rej12
+fri2_host_rej3|Estamos bastante orgullosos. ¿Vos estuviste en algo interesante en este tiempo?||No mucho, lo de siempre.||fri2_host_rej4
+|||De eso quería hablarte, por eso llegué temprano. Me hice el test de VIH y dio positivo.||fri2_host_rej5
+fri2_host_rej4|Así que nos dejaste por nada. Te esperamos para ir a jugar.||Tengo mucho cansancio últimamente, así que fui al médico.||fri2_host_rej6
+fri2_host_rej6|¿Tenés una peste?||Podría decirse.||fri2_host_rej7
+fri2_host_rej7|¡Cuánto misterio! ¿Es algo contagioso?||Si, pero en situaciones muy específicas. Así que no te preocupes que con vos está todo bien.||fri2_host_rej9
+fri2_host_rej9|Con tantas vueltas, seguro es una peste de transmisión sexual. Sos un asco.||¿Qué te pasa?||fri2_host_rej10
+fri2_host_rej10|Tengo razon, ¿no? Seguro anduviste por ahí sin cuidarte y ahora te cabe. Fijate que hacés, no me contagies a los invitados.||||
+fri2_host_rej5|Salí de acá. No me podés decir eso en mi casa mientras espero gente.||Pensé que éramos amigos y me ibas a entender.||fri2_host_rej11
+|||No hay un momento especial para decir estas cosas.||fri2_host_rej12
 fri2_host_rej11|Una cosa es que ser amigos y otra es que te acepte cualquier cosa. Esto que estás haciendo está fuera de lugar, me tendrías que haber avisado y preguntado si quería esto en mi casa.||
 fri2_host_rej12|Tenés teléfono. Me podrías haber llamado. No sé que ganó hablando con vos, evidentemente no pensás mucho en lo que haces. Permiso, me voy a revisar el freezer, a ver si hay hielo.|||
 ofi1_host_fri1|Te quería pedir que llames a Gomez, si estás libre, y le avises que lo suyo se demora tres días más. ||Ya le aviso.||ofi1_host_fri2
 |||Ahí llamo. ¿Podemos conversar un tema que tengo?||ofi1_host_fri3
-ofi1_host_fri2|Si, decile que se demoró un proveedor.|¿Alguna otra cosa?||ofi1_host_fri4
+ofi1_host_fri2|Si, decile que se demoró un proveedor.||¿Alguna otra cosa?||ofi1_host_fri4
 ofi1_host_fri4|Avisale que lo que me mandó llegó bien. Nada más.||Perfecto, le digo todo.||
 |||Le digo. ¿Podemos conversar un tema personal mio?||ofi1_host_fri3
 ofi1_host_fri3|Sí, por supuesto. ¿Qué te anda pasando?||Tengo problemas familiares y por ahí algún día llego tarde.||ofi1_host_fri5
@@ -280,7 +280,7 @@ ofi1_host_rej8|¡VIH! Bueno, eso es serio. No sé si vas a estar bien para hacer t
 |||Estoy un poco mal de ánimo pero voy a estar mejor||ofi1_host_rej11
 ofi1_host_rej10|||Igual por ahí te conviene buscarte un trabajo con horarios más flexibles, así podés manejar tus citas médicas.||
 ofi1_host_rej11|||Fijate, por ahí necesitás conseguir un trabajo menos estresante. Acá no podemos parar el ritmo porque vos te andes pegando cosas.||
-ofi1_host_unin1|¿Ya llamaste a Gomez?|¿A Gomez? ¿Para qué?||ofi1_host_unin2
+ofi1_host_unin1|¿Ya llamaste a Gomez?||¿A Gomez? ¿Para qué?||ofi1_host_unin2
 ofi1_host_unin2|¿Ah, no te dije? Sí, llamame a Gomez por favor. Decile que se demora tres días más el proyecto.||Bueno,  ¿le digo algo más? ||ofi1_host_unin4
 ofi1_host_unin4|No, decile que se demoró todo y que imposible tener lo suyo en fecha.||Está bien, ahí llamo.||ofi1_host_unin5
 |||Listo. Ah, ¿podemos hablar de algo?||ofi1_host_unin3
@@ -289,7 +289,7 @@ ofi1_host_unin5|Ah, no, si, decile que me llegó lo que me mandó.||Le digo.||
 ofi1_host_unin3|Si, ¿pasa algo?||Quizás algún día llegue tarde porque estoy con problemas familiares.||ofi1_host_unin6
 |||Tengo un problema de salud.||ofi1_host_unin7
 ofi1_host_unin6|Bueno, si me podés avisar con tiempo mejor, sino igual vemos cómo compensás las horas.||Listo, gracias.||
-ofi1_host_unin7|Ah, que mal… ¿Es algo grave?||Me dio positivo el test de VIH.|ofi1_host_unin8
+ofi1_host_unin7|Ah, que mal… ¿Es algo grave?||Me dio positivo el test de VIH.||ofi1_host_unin8
 |||No, anemia nada más.||ofi1_host_unin9
 ofi1_host_unin9|Uh, que mal. Bueno, cuidate, si necesitás pedirte días para ir al médico, lo hablamos.||Sí, gracias.||
 ofi1_host_unin8|¿SIDA? ¿Tenés SIDA?||No, tengo VIH, no estoy en estado de SIDA.||ofi1_host_unin10
@@ -308,7 +308,7 @@ ofi1_host_pan3|Sí, ¿de qué se trata?||Voy a necesitar un adelanto.||ofi1_host_pa
 ofi1_host_pan5|||No hay problema, después anotame la cantidad que necesitás y se te deposita.||
 ofi1_host_pan7|¡Uh, no me digas! ¿Estás bien? Espero que no sea nada grave.||Me dio positivo el test de VIH.||ofi1_host_pan8
 |||Tengo anemia.||ofi1_host_pan9
-ofi1_host_pan9|||Ah, ¡que mal! Bueno, cuidate, si te sentís muy mal y necesitás tomar el día, después vemos cuándo recuperás las horas||Gracias, igual me siento bien ahora.||
+ofi1_host_pan9|Ah, ¡que mal! Bueno, cuidate, si te sentís muy mal y necesitás tomar el día, después vemos cuándo recuperás las horas||Gracias, igual me siento bien ahora.||
 ofi1_host_pan8|¡No te puedo creer! Bueno, vamos a tener que pensar cómo organizar la rutina laboral para que no contagies a nadie...||Nadie se va a contagiar por compartir el espacio conmigo.||ofi1_host_pan10
 |||Mi puesto no está en peligro, ¿no?||ofi1_host_pan11
 ofi1_host_pan10|Es que yo tengo que pensar en la salud de toda la gente que trabaja acá.||Ya sé, pero no están en peligro.||ofi1_host_pan12
