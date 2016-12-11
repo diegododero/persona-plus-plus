@@ -1,0 +1,19 @@
+!!startBlock|||||
+"fri2_host_unin1|No te hice probar la cerveza que hicimos con mi hermano, ¿no? Tomá, compartamos el vaso.||Gracias. Me gusta mucho. ¡Felicitaciones!|fri2_host_unin2"
+"||Dale, compartamos que no quiero tomar demasiado.|fri2_host_unin3"
+"fri2_host_unin2|Estamos orgullosos de cómo salió. Contame vos que hiciste en este tiempo.|No mucho, no me sentía bien y me estuve haciendo análisis.|fri2_host_unin4"
+fri2_host_unin3|¿Te estás cuidando?||Trato.||fri2_host_unin5
+"fri2_host_unin5|Está bueno cuidarse. ¿Querés dejar la mala vida?||Jajajaja, sí, quiero estar bien y sentirme bien.||fri2_host_unin6"
+||Es un poco más serio. Me hice el test de VIH y me dio positivo.|fri2_host_unin7
+"fri2_host_unin6|Todos deberíamos hacer lo mismo. Vení que te hago probar la Stout que sacamos, que todavía no la probó nadie más.||"
+"fri2_host_unin4|¿Ya te dieron los resultados?||Si, me dio positivo el test de VIH.|fri2_host_unin7"
+"||No, todavía no. La otra semana.|fri2_host_unin8"
+"fri2_host_unin8|Avisame cuando te los den, así no me preocupo.||"
+"fri2_host_unin7|Me dejás mal. Nunca pensé que uno de nosotros se iba a morir joven.||Hoy hay medicación, no te preocupes que puedo vivir una vida más larga que la tuya.|fri2_host_unin9"
+||Es un poco duro lo que me estás diciendo.|fri2_host_unin10
+"fri2_host_unin9|Pero te vas a morir de SIDA, vos sos mi amigo y me duele.||VIH y SIDA no son lo mismo. Hoy hay muchos tratamientos y puedo llegar a vivir una vida normal.|fri2_host_unin11"
+fri2_host_unin11|Esto no es normal. ¿Escuchás lo que estás diciendo?||Hablé mucho con mi médico y leí todo lo que pude.|fri2_host_unin12
+"||Yo soy el portador, y sé de qué hablo. Estoy tratando de ser positivo y hacer todo bien, como me dijo el médico. Lo que necesitaba era apoyo de tu parte.||"
+"fri2_host_unin12|No me vas a convencer que esto es normal. Eso es algo que te dice el médico para llenarte de pastillas. Normal es estar sano, no esto.||"
+fri2_host_unin10|La verdad siempre es dura. Si vos no querés oirla es otra cosa.||
+!!endBlock||||||

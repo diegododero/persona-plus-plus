@@ -1,0 +1,16 @@
+"!!startBlock|||||																									"
+"ofi2_host_unin1|Uff, ya me quiero ir, no pasa el tiempo. ¿El finde hacés algo?||No  realmente. ¿Vos?||ofi2_host_unin2																									"
+"|||No creo que me de el ánimo para hacer algo.||ofi2_host_unin3																									"
+"ofi2_host_unin2|Voy a pasar el sábado en una quinta, nos invitan mis suegros.||¿Y el domingo hacés algo?||ofi2_host_unin4																									"
+"ofi2_host_unin4|No lo tengo muy en claro, por ahí salga a pasear.||Bueno, que te diviertas en la quinta.||ofi2_host_unin5																									"
+"|||Que bien. Yo la verdad no estoy de ánimo.||ofi2_host_unin3																									"
+"ofi2_host_unin5|¡Gracias! Si, son re buena onda mis suegros, seguro la vamos a pasar bien.||||																									"
+"ofi2_host_unin3|Bueno, ¡arriba ese humor! ¿Por qué tanta depresión?|| No, problemas con mi familia.||ofi2_host_unin6																									"
+"|||La verdad… soy VIH positivo. Y alguien me rechazó por eso.||ofi2_host_unin7																									"
+ofi2_host_unin6|Bueno, no te hagas drama. Pasa en las mejores familias.||Sí, ya se va a solucionar, supongo.||
+"ofi2_host_unin7|Uy… ¿en serio? Pasa que también… la gente tiene miedo de contagiarse.||No es algo que se contagie así nomás.||ofi2_host_unin8																									"
+"|||Es excesivo el miedo que tienen a veces, y duele el rechazo.||ofi2_host_unin9																									"
+ofi2_host_unin9|No, claro, pero tenés que entender. |||| 
+"ofi2_host_unin8|No, supongo, pero igual está el riesgo, ¿no?.||Los riesgos son muy específicos y fáciles de evitar.||ofi2_host_unin10																									"
+ofi2_host_unin10|No, claro… No, sí, tenés razón, no sé nada de esto, ya lo googleo.||||
+"!!endBlock||||||																									"

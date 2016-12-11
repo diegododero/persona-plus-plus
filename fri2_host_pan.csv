@@ -1,20 +1,20 @@
-!!startBlock|||||;;;;;;;;;;;;;;;;;;;;;;;;;
-fri1_host_pan1|Probá esta cerveza y decime qué te parece.||Está muy buena. ¿Es la que hacen con tu hermano?||fri1_host_pan2;;;;;;;;;;;;;;;;;;;;;;;;;
-fri1_host_pan2|Si, por eso estuvimos medio desaparecidos, nos llevó mucho tiempo armar todo.||Felicitaciones.|fri1_host_pan3;;;;;;;;;;;;;;;;;;;;;;;;;
-fri1_host_pan3|Contate algo, estuviste medio desaparecido también.||Solamente estuve con mucho estrés en el laburo y no tenía ganas de hacer nada.||fri1_host_pan4;;;;;;;;;;;;;;;;;;;;;;;;;
-|||Estoy con un problema de salud.||fri1_host_pan6;;;;;;;;;;;;;;;;;;;;;;;;;
-fri1_host_pan4|Ya estás viejo. Tratá de no cortarte, con los pibes te extrañamos, y nos va a faltar uno para el equipo.||Bueno, avisen cuando vuelvan a jugar y vemos.||fri1_host_pan5;;;;;;;;;;;;;;;;;;;;;;;;;
-"fri1_host_pan5|||""Y vemos""... Te dije, estás hecho un viejo!||";;;;;;;;;;;;;;;;;;;;;;;;;
-fri1_host_pan6|¡Uh, qué mal! Espero que no sea nada grave. Contame, ¿puedo hacer algo por vos?||No te preocupes, me tengo que cuidar y hacerme unos controles solamente. Pero a veces estoy cansado como para hacer cosas. Es eso, nada más.|fri1_host_pan4;;;;;;;;;;;;;;;;;;;;;;;;;
-|||Me dio positivo el análisis de HIV. Lo sé desde hace poco.||fri1_host_pan7;;;;;;;;;;;;;;;;;;;;;;;;;
-fri1_host_pan7|¡No! No me digas! Eso es super contagioso, ¿no?||Dejá de mirar el vaso, no se contagia por la saliva.||fri1_host_pan8;;;;;;;;;;;;;;;;;;;;;;;;;
-|||No seas tan extremista. No te vas a contagiar porque pases tiempo conmigo.||fri1_host_pan9;;;;;;;;;;;;;;;;;;;;;;;;;
-fri1_host_pan8|No, no estaba mirando el vaso... Estaba... pensando. La otra vez...||No, no estuvimos en situación de riesgo nosotros.||fri1_host_pan9;;;;;;;;;;;;;;;;;;;;;;;;;
-|||Mirá, si te preocupa tanto, hacete el análisis y dejá de mirarme así.||fri1_host_pan10;;;;;;;;;;;;;;;;;;;;;;;;;
-fri1_host_pan9|||No, tenés razón. Perdoname. Después seguimos hablando, me olvidé de fijarme si había suficiente hielo en el freezer.||;;;;;;;;;;;;;;;;;;;;;;;;;
-"fri1_host_pan10|¡Eh! No me contestes así, lo mío son dudas genuinas. Nosotros pasamos tiempo juntos, nos fuimos juntos de vacaciones. Menos mal que me dijiste.||¿Por qué ""menos mal""?||fri1_host_pan11";;;;;;;;;;;;;;;;;;;;;;;;;
-"|||""Menos mal"". Sos un desubicado. Contarte o no es mi derecho. Y si mínimamente te intereso, podrías preguntarme en vez de asumir que todo lo que hago te va a contagiar.||fri1_host_pan13";;;;;;;;;;;;;;;;;;;;;;;;;
-fri1_host_pan11|Tengo derecho a cuidarme. Es tu responsabilidad cuidar a tus amigos.||¿Me estás tildando de irresponsable?||fri1_host_pan12;;;;;;;;;;;;;;;;;;;;;;;;;
-fri1_host_pan12|||Yo no quiero implicar nada, pero de algo te contagiaste. Mejor no nos peleemos ahora, no es el momento. Después hablamos.||;;;;;;;;;;;;;;;;;;;;;;;;;
-fri1_host_pan13|||Tenés razón, no sé nada. Mejor dejemos esta conversación para después, tengo que ir a ver que haya hielo en el freezer.||;;;;;;;;;;;;;;;;;;;;;;;;;
-!!endBlock||||||;;;;;;;;;;;;;;;;;;;;;;;;;
+!!startBlock|||||
+fri2_host_pan1|Probá esta cerveza y decime qué te parece.||Está muy buena. ¿Es la que hacen con tu hermano?||fri2_host_pan2
+"fri2_host_pan2|Si, por eso estuvimos medio desaparecidos, nos llevó mucho tiempo armar todo.||Felicitaciones.|fri2_host_pan3"
+"fri2_host_pan3|Contate algo, estuviste medio desaparecido también.||Solamente estuve con mucho estrés en el laburo y no tenía ganas de hacer nada.||fri2_host_pan4"
+|||Estoy con un problema de salud.||fri2_host_pan6
+"fri2_host_pan4|Ya estás viejo. Tratá de no cortarte, con los pibes te extrañamos, y nos va a faltar uno para el equipo.||Bueno, avisen cuando vuelvan a jugar y vemos.||fri2_host_pan5"
+"fri2_host_pan5|||""Y vemos""... Te dije, estás hecho un viejo!||"
+"fri2_host_pan6|¡Uh, qué mal! Espero que no sea nada grave. Contame, ¿puedo hacer algo por vos?||No te preocupes, me tengo que cuidar y hacerme unos controles solamente. Pero a veces estoy cansado como para hacer cosas. Es eso, nada más.|fri2_host_pan4"
+|||Me dio positivo el análisis de HIV. Lo sé desde hace poco.||fri2_host_pan7
+"fri2_host_pan7|¡No! No me digas! Eso es super contagioso, ¿no?||Dejá de mirar el vaso, no se contagia por la saliva.||fri2_host_pan8"
+|||No seas tan extremista. No te vas a contagiar porque pases tiempo conmigo.||fri2_host_pan9
+"fri2_host_pan8|No, no estaba mirando el vaso... Estaba... pensando. La otra vez...||No, no estuvimos en situación de riesgo nosotros.||fri2_host_pan9"
+"|||Mirá, si te preocupa tanto, hacete el análisis y dejá de mirarme así.||fri2_host_pan10"
+"fri2_host_pan9|||No, tenés razón. Perdoname. Después seguimos hablando, me olvidé de fijarme si había suficiente hielo en el freezer.||"
+"fri2_host_pan10|¡Eh! No me contestes así, lo mío son dudas genuinas. Nosotros pasamos tiempo juntos, nos fuimos juntos de vacaciones. Menos mal que me dijiste.||¿Por qué ""menos mal""?||fri2_host_pan11"
+"|||""Menos mal"". Sos un desubicado. Contarte o no es mi derecho. Y si mínimamente te intereso, podrías preguntarme en vez de asumir que todo lo que hago te va a contagiar.||fri2_host_pan13"
+fri2_host_pan11|Tengo derecho a cuidarme. Es tu responsabilidad cuidar a tus amigos.||¿Me estás tildando de irresponsable?||fri2_host_pan12
+"fri2_host_pan12|||Yo no quiero implicar nada, pero de algo te contagiaste. Mejor no nos peleemos ahora, no es el momento. Después hablamos.||"
+"fri2_host_pan13|||Tenés razón, no sé nada. Mejor dejemos esta conversación para después, tengo que ir a ver que haya hielo en el freezer.||"
+!!endBlock||||||

@@ -1,5 +1,6 @@
 ///CreateNPC
 randomize();
+dialog_on = true;
 
 rnd_hostility = random(1);
 rnd_gender = random(2);

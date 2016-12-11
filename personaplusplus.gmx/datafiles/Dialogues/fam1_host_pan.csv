@@ -1,0 +1,17 @@
+"!!startBlock|||||																									"
+"fam1_host_pan1|¡Hola! Ya me estaba preocupando por vos, te estaba por llamar al celu. ¿Por dónde andabas?||Siempre te hacés tanto drama. Andaba por ahí.||fam1_host_pan2																									"
+"|||Tengo que decirte algo, pero no te pongas mal.||fam1_host_pan3																									"
+"fam1_host_pan2|Es que yo me preocupo. ¡Pasan cosas tan horribles en la calle!||Te hacés mucho la cabeza.||fam1_host_pan4																									"
+"fam1_host_pan4|Es que encima vos me decís que andabas ""por ahí"", y yo no sé dónde es ""ahí"".||Ahí, haciendo mi vida.||fam1_host_pan5																									"
+"|||Vengo del hospital. Pero por favor no te alteres.||fam1_host_pan3																									"
+"fam1_host_pan5|Haciendo tu vida. Está bien, hacé tu vida, total, ya creciste y no me necesitás.||No es que no te necesite pero soy una persona adulta. ||fam1_host_pan6																									"
+"fam1_host_pan6|Si, tenés razón, pero mientras vivas en esta casa me tenés que avisar dónde estás y a qué hora volvés, es una simple cuestión de convivencia.||Está bien, la próxima te aviso.																									||"
+"fam1_host_pan3|¿Ves que yo tenía razón? ¡Pasó algo malo! ¿Qué pasó?|| ¡No, nada grave! En el hospital me dijeron que me tengo que hacer más estudios porque por ahí tengo anemia o algo. ||fam1_host_pan5																								11"
+"|||Me hice el estudio de VIH. Soy positivo.||fam1_host_pan7																									"
+fam1_host_pan11|||¡Y si vivís comiendo cualquier cosa! Bueno, vas a tener que hacer todo lo que te digan los médicos, con la salud no se juega.||
+"fam1_host_pan7|¿Qué? ¡No, no puede ser! ¿Te estás muriendo? ¡No te podés morir antes que yo!||¡No me estoy muriendo! Calmate, por favor, sino no podemos hablar. ||fam1_host_pan8																									"
+"|||No tendría que haberte dicho nada. Me tendría que haber callado, te hacés drama por todo.||fam1_host_pan9																									"
+"fam1_host_pan9|¿Y cómo querés que no me haga drama si mi propio hijo se está muriendo?																									||En este momento no puedo seguir esta conversación.||"
+"fam1_host_pan8|Es muy dificil calmarse cuando tu propio hijo te dice que tiene una enfermedad horrible...||No te voy a decir que vaya a ser fácil, pero necesito tu apoyo.||fam1_host_pan10																									"
+fam1_host_pan10|||Si, es verdad, me necesitás. Yo necesito algo de tiempo para calmarme un poco, pero acá estoy.||
+"!!endBlock||||||																									"

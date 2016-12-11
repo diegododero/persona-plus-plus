@@ -1,0 +1,18 @@
+"!!startBlock|||||																									"
+"ofi1_host_pan1|Necesito que llames a Gomez y le digas que no llegamos con las fechas, que espere tres días.||Perfecto, ahí hago el llamado.||ofi1_hostpan2																									"
+"|||Ahí llamo. Por cierto, ¿puedo tener una reunión con usted?||ofi1_host_pan3																									"
+"ofi1_host_pan2|Si, decile que nos falló un proveedor.|Le digo. ¿Algo más?|ofi1_host_pan4																									"
+"ofi1_host_pan4|No. Espero que no se enoje. Después vemos, le regalamos un vino o algo.||Sí, no creo que se enoje.||																									"
+"|||Claro, si. ¿Después le puedo comentar algo?||ofi1_host_pan3																									"
+"ofi1_host_pan3|Sí, ¿de qué se trata?||Voy a necesitar un adelanto.||ofi1_host_pan5																									"
+"|||Tengo un problema de salud.||ofi1_host_pan7																									"
+ofi1_host_pan5|||No hay problema, después anotame la cantidad que necesitás y se te deposita.||
+"ofi1_host_pan7|¡Uh, no me digas! ¿Estás bien? Espero que no sea nada grave.||Me dio positivo el test de VIH.||ofi1_host_pan8																									"
+"|||Tengo anemia.||ofi1_host_pan9																									"
+ofi1_host_pan9|||Ah, ¡que mal! Bueno, cuidate, si te sentís muy mal y necesitás tomar el día, después vemos cuándo recuperás las horas||Gracias, igual me siento bien ahora.||
+"ofi1_host_pan8|¡No te puedo creer! Bueno, vamos a tener que pensar cómo organizar la rutina laboral para que no contagies a nadie...||Nadie se va a contagiar por compartir el espacio conmigo.||ofi1_host_pan10																									"
+|||Mi puesto no está en peligro, ¿no?||ofi1_host_pan11
+ofi1_host_pan10|Es que yo tengo que pensar en la salud de toda la gente que trabaja acá.||Ya sé, pero no están en peligro.||ofi1_host_pan12
+ofi1_host_pan12|Igual creo que tendrías que decirle a todos, para que cada persona tome sus recaudos.||||
+ofi1_host_pan11|||No, no, claro. Legalmente no se te puede echar por esto.||ofi1_host_pan12
+"!!endBlock||||||																									"

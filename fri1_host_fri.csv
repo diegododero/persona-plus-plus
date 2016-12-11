@@ -1,13 +1,13 @@
 !!startBlock|||||
-fri1_host_fri1|¡Uh, viniste, qué bueno! Hace cuánto que no te veo, ¿cómo andas?||Acá, con cosas en la cabeza.||fri1_host_fri2
-|||Bien, bien. Todo tranqui.||fri1_host_fri3
-fri1_host_fri2|¿Muchas preocupaciones? Vení, tomate un mate conmigo y contame.||Es que me hice el test de VIH y me dio positivo. Todavía no sé cómo procesarlo||fri1_host_fri4
-fri1_host_fri4|Uh, no, boludo, todo mal. ¿Estás bien? ¿Estás con la medicación? Perdoname, te estoy haciendo muchas preguntas, ¿no?||Nah, todo bien. Es entendible.|fri1_host_fri5
-|||Si, me estás acribillando. Prefiero hablar de otra cosa.|fri1_host_fri6
-fri1_host_fri5|Mejor, porque yo sé poco de esto, así que perdoname si digo una boludez. Pero sé que mate podemos tomar, así que acá tenés uno bien amargo como te gusta.|Gracias. Contame vos qué es de tu vida.||fri1_host_fri7
+"fri1_host_fri1|¡Uh, viniste, qué bueno! Hace cuánto que no te veo, ¿cómo andas?||Acá, con cosas en la cabeza.||fri1_host_fri2"
+"|||Bien, bien. Todo tranqui.||fri1_host_fri3"
+"fri1_host_fri2|¿Muchas preocupaciones? Vení, tomate un mate conmigo y contame.||Es que me hice el test de VIH y me dio positivo. Todavía no sé cómo procesarlo||fri1_host_fri4"
+"fri1_host_fri4|Uh, no, boludo, todo mal. ¿Estás bien? ¿Estás con la medicación? Perdoname, te estoy haciendo muchas preguntas, ¿no?||Nah, todo bien. Es entendible.|fri1_host_fri5"
+"|||Si, me estás acribillando. Prefiero hablar de otra cosa.|fri1_host_fri6"
+"fri1_host_fri5|Mejor, porque yo sé poco de esto, así que perdoname si digo una boludez. Pero sé que mate podemos tomar, así que acá tenés uno bien amargo como te gusta.|Gracias. Contame vos qué es de tu vida.||fri1_host_fri7"
 fri1_host_fri7|Les contaba acá que es medio un quilombo el laburo. Cuando lleguen todos les cuento porque esta semana me pasó algo de no creer.||||
-fri1_host_fri6|Está bien, pero si necesitás hablar, me avisás.||Dale. Bueno, pasame un mate y contame.||fri1_host_fri7
+"fri1_host_fri6|Está bien, pero si necesitás hablar, me avisás.||Dale. Bueno, pasame un mate y contame.||fri1_host_fri7"
 fri1_host_fri3|Me alegro. Yo estoy con problemas por todos lados.||Contame.|fri1_host_fri8
-fri1_host_fri8|Esa pregunta da para largo, así que si tenés algo para contar empezá vos.|Mi vida es lo de siempre, el laburo, la familia. Vos, en cambio siempre tenés anécdotas.||fri1_host_fri7
-|||Está bien, hace poco me hice el test de HIV y me dio positivo.||fri1_host_fri4
+"fri1_host_fri8|Esa pregunta da para largo, así que si tenés algo para contar empezá vos.|Mi vida es lo de siempre, el laburo, la familia. Vos, en cambio siempre tenés anécdotas.||fri1_host_fri7"
+"|||Está bien, hace poco me hice el test de HIV y me dio positivo.||fri1_host_fri4"
 !!endBlock||||||
