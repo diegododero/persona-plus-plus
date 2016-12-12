@@ -8,6 +8,8 @@
     <sound>sound\sound_ending</sound>
     <sound>sound\sound_home</sound>
     <sound>sound\sound_intro</sound>
+    <sound>sound\sound_friends_bass</sound>
+    <sound>sound\sound_office</sound>
   </sounds>
   <sprites name="sprites"/>
   <backgrounds name="background"/>
@@ -16,6 +18,8 @@
     <object>objects\obj_sound_ending</object>
     <object>objects\obj_sound_home</object>
     <object>objects\obj_sound_intro</object>
+    <object>objects\obj_sound_friends</object>
+    <object>objects\obj_sound_office</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
