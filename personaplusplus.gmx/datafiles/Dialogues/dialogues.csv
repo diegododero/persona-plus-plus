@@ -166,26 +166,26 @@ fri1_host_unin4|¿En serio? ¿VIH? ¿Cómo te contagiaste?||No importa cómo me conta
 fri1_host_unin10|Tenés razón, supongo. Hagamos algo, otro día nos juntamos a tomar un café y me explicás bien, ¿puede ser?||[green]Continuar||
 fri1_host_unin11|A mí me parece importante. Mirá si fue haciendo algo que hacemos todos.||Si querés te paso un sitio donde te explica bien y te fijas. O mejor, hacete el test vos también.||fri1_host_unin12
 fri1_host_unin12|Pasame el link. Lo otro lo voy a pensar.||[green]Continuar||
-fri1_host_fri1|Qué hacés desaparecido.Tomá, tené un mate, aunque no te lo merecés.||¡Eh, no exageres! no hace tanto que no nos vemos.||fri1_host_fri2
-|||Perdón, es que estoy con mil cosas. Necesitaba tiempo conmigo.||fri1_host_fri3
-fri1_host_fri2|No me digas que exagero. Te dejé varios mensajes y no me respondiste.||Dos, y uno era para avisarme de hoy. Ese lo respondí.||fri1_host_fri4
-|||Tenés razón, perdoname. Es que necesitaba tiempo para procesar cosas.||fri1_host_fri3
-fri1_host_fri3|Me estás asustando. ¿Te pasó algo?||Me hice unos análisis y tengo un problema en la sangre. No es nada, pero voy a tener que tomar pastillas y hacerme controles.||fri1_host_fri5
-|||Si... Me dio positivo el VIH.||fri1_host_fri6
-fri1_host_fri5|¿Es cancer? Hacete bien los controles, mirá que la tía de Santiago se murió porque no la diagnosticaron bien.||No te hagas la película. No te preocupes, estoy controlado.||fri1_host_fri7
-|||¡No es cancer! Es HIV.||fri1_host_fri6
-fri1_host_fri7|Está bien, te creo. Pero fijate de pedir una segunda opinión, por las dudas.||[green]Continuar||
-fri1_host_fri6|Eso es muy contagioso. Me tendrías que haber dicho antes de que te de el mate.||Estás diciendo una idiotez, no te voy a contagiar con el mate.||fri1_host_fri8
-|||No te contagias con el mate. Si querés te linkeo un sitio con info posta.||fri1_host_fri9
-fri1_host_fri8|No me digas idiota. No tenés derecho a tratarme así.||No dije que eras idiota, dije que dijiste una idiotez.||fri1_host_fri10
-fri1_host_fri10|Alguien que dice una idiotez es un idiota. Y prefiero ser idiota que mala gente.||¿Y qué me hace ser mala gente?||fri1_host_fri11
+fri1_host_pan1|Qué hacés desaparecido.Tomá, tené un mate, aunque no te lo merecés.||¡Eh, no exageres! no hace tanto que no nos vemos.||fri1_host_pan2
+|||Perdón, es que estoy con mil cosas. Necesitaba tiempo conmigo.||fri1_host_pan3
+fri1_host_pan2|No me digas que exagero. Te dejé varios mensajes y no me respondiste.||Dos, y uno era para avisarme de hoy. Ese lo respondí.||fri1_host_pan4
+|||Tenés razón, perdoname. Es que necesitaba tiempo para procesar cosas.||fri1_host_pan3
+fri1_host_pan3|Me estás asustando. ¿Te pasó algo?||Me hice unos análisis y tengo un problema en la sangre. No es nada, pero voy a tener que tomar pastillas y hacerme controles.||fri1_host_pan5
+|||Si... Me dio positivo el VIH.||fri1_host_pan6
+fri1_host_pan5|¿Es cancer? Hacete bien los controles, mirá que la tía de Santiago se murió porque no la diagnosticaron bien.||No te hagas la película. No te preocupes, estoy controlado.||fri1_host_pan7
+|||¡No es cancer! Es HIV.||fri1_host_pan6
+fri1_host_pan7|Está bien, te creo. Pero fijate de pedir una segunda opinión, por las dudas.||[green]Continuar||
+fri1_host_pan6|Eso es muy contagioso. Me tendrías que haber dicho antes de que te de el mate.||Estás diciendo una idiotez, no te voy a contagiar con el mate.||fri1_host_pan8
+|||No te contagias con el mate. Si querés te linkeo un sitio con info posta.||fri1_host_pan9
+fri1_host_pan8|No me digas idiota. No tenés derecho a tratarme así.||No dije que eras idiota, dije que dijiste una idiotez.||fri1_host_pan10
+fri1_host_pan10|Alguien que dice una idiotez es un idiota. Y prefiero ser idiota que mala gente.||¿Y qué me hace ser mala gente?||fri1_host_pan11
 |||No voy a seguir esta conversación. Si querés después lo hablamos, ahora no puedo.||
-fri1_host_fri9|Bueno, tampoco me trates de ignorante.||Entonces no digas pavadas.||fri1_host_fri12
-|||No te dije ignorante, te lo digo para que te quedes tranquilo.||fri1_host_fri13
-fri1_host_fri13| Está bien. ¿Estás seguro que no te estás muriendo?||[green]Continuar||
-fri1_host_fri12|No son pavadas. Venís acá, tirás esa bomba y querés que reaccionemos como si nada. Vos fijate.||[green]Continuar||
-fri1_host_fri11|Tenés una enfermedad contagiosa, venís como si nada sin avisar y sin dejarnos la oportunidad de cuidarnos.|| A ver si entendés: no están en peligro por compartir el espacio conmigo.||fri1_host_fri14
-fri1_host_fri14|Lo siento por querer cuidarme. Si vos fuiste irresponsable es tu problema, no el mío.||[green]Continuar||
+fri1_host_pan9|Bueno, tampoco me trates de ignorante.||Entonces no digas pavadas.||fri1_host_pan12
+|||No te dije ignorante, te lo digo para que te quedes tranquilo.||fri1_host_pan13
+fri1_host_pan13| Está bien. ¿Estás seguro que no te estás muriendo?||[green]Continuar||
+fri1_host_pan12|No son pavadas. Venís acá, tirás esa bomba y querés que reaccionemos como si nada. Vos fijate.||[green]Continuar||
+fri1_host_pan11|Tenés una enfermedad contagiosa, venís como si nada sin avisar y sin dejarnos la oportunidad de cuidarnos.|| A ver si entendés: no están en peligro por compartir el espacio conmigo.||fri1_host_pan14
+fri1_host_pan14|Lo siento por querer cuidarme. Si vos fuiste irresponsable es tu problema, no el mío.||[green]Continuar||
 fri2_host_unin1|No te hice probar la cerveza que hicimos con mi hermano, ¿no? Tomá, compartamos el vaso.||Gracias. Me gusta mucho. ¡Felicitaciones!||fri2_host_unin2
 |||Dale, compartamos que no quiero tomar demasiado.||fri2_host_unin3
 fri2_host_unin2|Estamos orgullosos de cómo salió. Contame vos que hiciste en este tiempo.||No mucho, no me sentía bien y me estuve haciendo análisis.||fri2_host_unin4
