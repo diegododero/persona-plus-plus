@@ -1,0 +1,18 @@
+"!!startBlock|||||																									"
+"fam2_host_pan1|¡Hola! Oime, necesito pedirte algo de plata porque vinieron gastos extra.||Aporto lo que puedo, algo más te puedo dar pero no mucho.||fam2_host_pan2																									"
+"|||¿Podemos hablar después de esto? Tengo algo que decirte antes.||fam2_host_pan3																									"
+"fam2_host_pan2|Hacé un esfuerzo. Este mes vamos a estar ajustados.||Bueno, veo cuánto te puedo dar.||fam2_host_pan4																									"
+"fam2_host_pan4|Lo más que puedas, estamos complicados.||Te dije que veo cuánto te puedo dar.||																									"
+"|||Si, me fijo. ¿Podemos hablar de algo, ahora?||fam2_host_pan3																									"
+"fam2_host_pan3|¿De qué querés hablar? Mirá que si es plata no tengo, jaja.||No, qué se yo, cosas. Mejor hablamos otro día.||fam2_host_pan5																									"
+"|||Me dio positivo un estudio de VIH que me hice.||fam2_host_pan7																									"
+fam2_host_pan5|Como quieras.||
+"fam2_host_pan7|¿Cómo? ¡No! ¡No puede ser! ¡Es espantoso!||Tampoco te pongas así.||fam2_host_pan8																									"
+"|||Esperaba otra respuesta.||fam2_host_pan9																									"
+fam2_host_pan9|¡Pero me estás diciendo que tenés una enfermedad mortal! ¿Cómo esperás que reaccione?||Informate, eso espero que hagas.||
+fam2_host_pan8|¿Cómo querés que me ponga? ¡Es lo peor que me podías decir!||¿Podés calmarte un poco? ¡No me estás ayudando||fam2_host_pan11
+|||No, hay cosas peores.||fam2_host_pan10
+fam2_host_pan10|¿Y tan tranquilo te quedás, después de esta bomba que me tiraste?||Cuando te calmes lo hablamos.||
+fam2_host_pan11|¿Cómo hago para calmarme? ¡Me estás diciendo que mi hijo se va a morir! ||Todos vamos a morir.||fam2_host_pan12
+"fam2_host_pan12|Sí, ¡pero no ahora!.||Yo tampoco me voy a morir ""ahora"". Necesito que te calmes para poder hablar bien de esto.||"
+"!!endBlock||||||																									"

@@ -1,0 +1,14 @@
+!!startBlock|||||
+"fri2_host_fri1|Qué bueno que pudiste venir. Te extrañaba.||Yo también, pero necesitaba un poco de tiempo para mí.|fri2_host_fri2"
+"fri2_host_fri2|Me gusta escuchar que te cuides. Tomá, probá esta cerveza que hicimos con mi hermano y contame más.||Me estuve haciendo análisis porque no me sentía bien.|fri2_host_fri3"
+||Quería contarte esto personalmente. Me hice el test de VIH y me dio positivo.||fri2_host_fri4
+"fri2_host_fri3|¿Ya te dieron los resultados?||No, todavía no.|fri2_host_fri5"
+"||Si, pero no es nada, una infección nomás. Tengo que tomar unos remedios y hacer vida sana.|fri2_host_fri6"
+fri2_host_fri6|Me alegro de escuchar eso. Seguro vas a estar bien enseguida.||
+fri2_host_fri5|Avisame si querés que te acompañe a buscarlos.||Gracias.||
+"fri2_host_fri4|No sé que decirte. ¿Cómo te sentís?||Bien, estoy tratando de mantener el ánimo.|fri2_host_fri7"
+"||Todavía no caigo. Estoy haciendo todo lo que me dicen, pero es difícil de aceptar.|fri2_host_fri8"
+"fri2_host_fri7|Debe ser difícil. Si te sentís muy mal, llamame y hablamos, o hacemos algo. No estés solo.||"
+"fri2_host_fri8|Yo no sé mucho al respecto, pero vos mandame todo lo que quieras y lo vemos juntos.||Gracias, necesitaba esto.||fri2_host_fri9"
+"fri2_host_fri9|Somos amigos, ¿cómo no te voy a bancar en esta?||"
+!!endBlock||||||

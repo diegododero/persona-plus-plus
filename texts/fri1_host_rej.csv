@@ -1,0 +1,21 @@
+!!startBlock|||||
+fri1_host_rej1|Pensé que no ibas a venir. Estás desaparecido últimamente.||Ando con muchas cosas en la cabeza.|fri1_host_rej2
+||Tenía ganas de salir un poco y verlos. También los extraño.||fri1_host_rej3
+"fri1_host_rej2|Vos siempre con problemas. Tomate un mate conmigo y contame, que para eso están los amigos.||Nada que pueda solucionar, problemas de laburo.|fri1_host_rej4"
+"||Estoy con un tema de salud, pero no quiero preocuparlos mucho.|fri1_host_rej5"
+"fri1_host_rej4|¿Está muy complicada la cosa?||Y si, con esto de la crisis, los jefes se abusan porque nadie quiere quedarse afuera.|fri1_host_rej6"
+"||No tanto, pero estoy con un tema de salud y tengo miedo de que mi jefe se entere.|fri1_host_rej7"
+"fri1_host_rej6|Pero vos sos trabajador. Mientras no seas un ñoqui no te va a pasar nada.||A Hernan lo echaron hace poco, y no era un ñoqui.|fri1_host_rej8"
+"fri1_host_rej8|Hernan tiene problemitas y puso de excusa que lo echaron porque la empresa quiere cerrar.||Me consta que su empresa está mal, yo le creo.|fri1_host_rej9"
+"||Mejor hablemos de otra cosa, esto es una fiesta.|||"
+fri1_host_rej9|Vos porque sos opositor. Ya te vas a dar cuenta que las cosas no están tan mal y que tus problemas son infundados.||
+"fri1_host_rej7|Pero la ley no le permite echarte por eso, así que eso no va a pasar. Te preocupás mucho.||Las cosas pasan igual, existan o no esas leyes. Le encuentran la manera.||fri1_host_rej10"
+fri1_host_rej10|Eso suena conspirativo. La realidad es una: las leyes te protegen. Y si te echan es porque no estabas cumpliendo tu trabajo.||
+fri1_host_rej5|Ya me preocupaste. Debe ser algo serio.||Me dio positivo el test de HIV.|fri1_host_rej11
+"||Nada, una infección nomás. Pero tengo que tomarme horas para ir al médico y ver que la obra social me cubra todo. Me preocupa que mi jefe pierda la paciencia.||fri1_host_rej7"
+"fri1_host_rej11|¿En serio me decís? Y yo tomando mate con vos lo más tranquilo, sos un forro.||Tengo una enfermedad crónica, no es motivo para que me insultes.|fri1_host_rej12"
+"||No exageres, es un mate. No te vas a contagiar por compartir una bombilla.|fri1_host_rej13"
+"fri1_host_rej12|¿Te parece poco? Venís acá, con tus virus de mierda y ni siquiera se te ocurre avisarnos antes, para que podamos decidir si queremos compartir el espacio con vos.||Si te digo o no, es mi derecho.|fri1_host_rej14"
+"fri1_host_rej14|Dejó de ser tu derecho cuando hiciste quién sabe qué y te contagiaste. Lo siento si te molesta, pero no voy a exponerme a tu enfermedad mortal por ser políticamente correcto. Si fueras una buena persona, te irías ahora.|||"
+"fri1_host_rej13|Yo tengo derecho a reaccionar como quiera. Ponele que no me contagies con una bombilla, pero no me podés sacar mi derecho de estar en un ambiente seguro para mí. No tengo más para decirte.|||"
+!!endBlock||||||

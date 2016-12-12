@@ -18,8 +18,9 @@ fam2.name = "fam2";
 friend1 = instance_create(400, 350, obj_friend);
 friend1.name = "fri1";
 
-friend2 = instance_create(650, 65, obj_friend);
+friend2 = instance_create(100, 100, obj_friend);
 friend2.name = "fri2";
+friend2.hostility = npc_attitude.panic;
 
 office1 = instance_create(370, 350, obj_friend);
 office1.name = "ofi1";

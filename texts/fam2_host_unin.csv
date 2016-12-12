@@ -1,0 +1,17 @@
+"!!startBlock|||||																									"
+"fam2_host_unin1|¡Hola! Mirá, odio tener que pedirte esto, pero, ¿podés colaborar con algo más de plata este mes?||Un poco más puedo aportar, no mucho.||fam2_host_unin2																									"
+"|||No sé, no lo puedo pensar ahora. Tengo algo más en la cabeza.||fam2_host_unin3																									"
+"fam2_host_unin2|Es que aparecieron varios gastos extra. Sino no te pediría||Si, entiendo. Igual a mi tampoco me sobra.||fam2_host_unin4																									"
+"fam2_host_unin4|Ya sé, me imagino. Está complicado el tema.||Si, muy complicado.||																									"
+"|||Si, y no te das una idea de las complicaciones extra que tengo.||fam2_host_unin3																									"
+"fam2_host_unin3|¿Qué te anda pasando? ¿Me querés contar?||No, es todo un lío, después por ahí te cuento.||																									"
+"|||Me dio positivo un estudio de VIH que me hice.||fam2_host_unin7																									"
+"fam2_host_unin7|¿Qué? ¿Cómo? Pará… ¿me puedo contagiar?||Por llevar vida normal, no...||fam2_host_unin8																									"
+"|||No. Y necesito tu apoyo.||fam2_host_unin9																									"
+"fam2_host_unin9|||Esto es demasiado para procesar en este momento.||												"
+fam2_host_unin8|Igual por las dudas vamos a separar la vajilla… ¡es una enfermedad mortal!||¡No se contagia por compartir vajilla!||fam2_host_unin10                         
+|||No, es una enfermedad crónica.||fam2_host_pan11
+fam2_host_unin10|Bueno, igual me da más tranquilidad tomar ese recaudo.||Como quieras.||
+fam2_host_unin11|¿Crónica? ||Claro. Con medicación puedo vivir tanto como cualquier persona.||fam2_host_unin12
+fam2_host_unin12|||¿En serio? Bueno, se nota que no sé mucho de esto, voy a tratar de aprender más.||
+"!!endBlock||||||																									"
