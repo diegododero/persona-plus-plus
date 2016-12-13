@@ -15,7 +15,10 @@ instance_create(0,0,obj_init);
 fam1 = instance_create(600, 60, obj_relative);
 fam1.name = "fam1";
 fam2 = instance_create(50, 500, obj_relative);
-fam2.name = "fam2";</code>
+fam2.name = "fam2";
+
+globalvar journal;
+journal = instance_create(0, 0, obj_journal);</code>
   <enableViews>0</enableViews>
   <clearViewBackground>0</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>

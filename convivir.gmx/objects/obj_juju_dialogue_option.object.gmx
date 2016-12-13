@@ -87,8 +87,23 @@ if ( dialogueText.textDelay &gt;= 0 ) {
         
         if ( instance_exists( dialogueText ) ) {
             if ( point_in_rectangle( mouse_x, mouse_y,   x, y, x + dialogueText.textWidth, y + dialogueText.textHeight - 1 ) ) and ( dialogueText.textDelay &gt;= 0 ) {
-                mouseOver = true;
-                if ( mouse_check_button_pressed( mb_left ) ) scr_juju_dialogue_clicked( id );
+                mouseOver = true;           
+
+                if ( mouse_check_button_pressed( mb_left ) ){
+                    //Obtener el texto de la respuesta
+                    var message = "";
+                    var i;
+                    
+                    for (i = 0; i &lt; ds_list_size(dialogueText.lst_string); i += 1){
+                        var text = ds_list_find_value(dialogueText.lst_string, i);
+                        if (text != "Continuar"){ 
+                             message += text;
+                        }
+                    }
+                                 
+                    update_journal(message);
+                 scr_juju_dialogue_clicked( id );
+                }
             } else {
                 mouseOver = false;
             }

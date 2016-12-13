@@ -45,6 +45,11 @@ switch( category ) {
         //Fill up the dialogue box with text and buttons as per the .csv file. Don't forget this step ;)
         scr_juju_dialogue_populate( backInst, tag, "" );
         
+        
+        //Guardamos el mensaje en el journal
+        var message = ds_map_find_value(ds_map_find_value(db, tag), "text");
+        update_journal(message);
+        
     break;
     
     //For production runs, you might want to create some kind of fall-back dialogue category
