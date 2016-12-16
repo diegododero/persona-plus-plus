@@ -10,8 +10,9 @@ enum npc_attitude{
 }
 
 enum player_attitude{
-    activist,
-    normal
+    activista,
+    optimista,
+    depresivo
 }
 
 enum gender{
