@@ -168,6 +168,7 @@
     <scripts name="Interactions">
       <script>scripts\InteractWithPlayer.gml</script>
       <script>scripts\change_mood.gml</script>
+      <script>scripts\get_epilogue_mood.gml</script>
     </scripts>
     <scripts name="Initialization">
       <script>scripts\init_room.gml</script>
