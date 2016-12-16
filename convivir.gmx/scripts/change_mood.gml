@@ -11,5 +11,3 @@ else{
 }
 
 obj_player.mood = obj_player.mood + mood_change * multiplier;
-
-update_journal("Mood: " + string(obj_player.mood));

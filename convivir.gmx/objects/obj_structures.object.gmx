@@ -25,19 +25,27 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>sadness_multipliers[player_attitude.activista] = 0.5;
+            <string>//Multiplicadores para interacciones que pueden bajar el animo
+sadness_multipliers[player_attitude.activista] = 0.5;
 sadness_multipliers[player_attitude.optimista] = 1;
 sadness_multipliers[player_attitude.depresivo] = 1.25;
 
+//Multiplicadores para interacciones que pueden subir el animo
 happiness_multipliers[player_attitude.activista] = 1.25;
 happiness_multipliers[player_attitude.optimista] = 1;
 happiness_multipliers[player_attitude.depresivo] = 0.5;
 
-mood_changes[npc_attitude.friendly] = 2;
-mood_changes[npc_attitude.neutral] = 1
-mood_changes[npc_attitude.uninformed] = 0;
-mood_changes[npc_attitude.panic] = -1;
-mood_changes[npc_attitude.reject] = -2;
+//Animo minimo inicial
+initial_min_mood[player_attitude.activista] = 45;
+initial_min_mood[player_attitude.optimista] = 30;
+initial_min_mood[player_attitude.depresivo] = 15;
+
+
+//Modificadores de animo segun NPC
+mood_changes[npc_attitude.friendly] = 10;
+mood_changes[npc_attitude.uninformed] = 5;
+mood_changes[npc_attitude.panic] = -5;
+mood_changes[npc_attitude.reject] = -10;
 
 </string>
           </argument>
