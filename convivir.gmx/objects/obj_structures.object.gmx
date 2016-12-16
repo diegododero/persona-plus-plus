@@ -25,12 +25,12 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>sadness_multipliers[player_attitude.superado] = 0.5;
-sadness_multipliers[player_attitude.normal] = 1;
+            <string>sadness_multipliers[player_attitude.activista] = 0.5;
+sadness_multipliers[player_attitude.optimista] = 1;
 sadness_multipliers[player_attitude.depresivo] = 1.25;
 
-happiness_multipliers[player_attitude.superado] = 1.25;
-happiness_multipliers[player_attitude.normal] = 1;
+happiness_multipliers[player_attitude.activista] = 1.25;
+happiness_multipliers[player_attitude.optimista] = 1;
 happiness_multipliers[player_attitude.depresivo] = 0.5;
 
 mood_changes[npc_attitude.friendly] = 2;

@@ -5,3 +5,7 @@ if (!instance_exists(obj_journal)){
 if (!instance_exists(obj_structures)){
     instance_create(0, 0, obj_structures);
 }
+
+if (!instance_exists(obj_epilogos)){
+    instance_create(0, 0, obj_epilogos);
+}
