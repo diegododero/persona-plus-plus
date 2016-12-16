@@ -167,9 +167,10 @@
     </scripts>
     <scripts name="Interactions">
       <script>scripts\InteractWithPlayer.gml</script>
+      <script>scripts\change_mood.gml</script>
     </scripts>
     <scripts name="Initialization">
-      <script>scripts\ReactionsTable.gml</script>
+      <script>scripts\init_room.gml</script>
     </scripts>
     <script>scripts\Check_Mov.gml</script>
     <script>scripts\Verificar_Colision.gml</script>
@@ -234,6 +235,8 @@
       <object>objects\obj_start</object>
       <object>objects\obj_boton</object>
     </objects>
+    <object>objects\obj_structures</object>
+    <object>objects\obj_epilogos</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\title</room>

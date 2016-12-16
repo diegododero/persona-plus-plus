@@ -118,7 +118,8 @@ if (distancia &lt; 100)
     //Create a dialogue box to attach to.
     //This dialogue box is running text collected from the tag "intro0" from the .csv file and is using the category "default_category". Check scr_juju_dialogue() for more on categories.
     var boxInst = scr_juju_dialogue( 30, 200, dialogtag, "default_category" );
-    dialog_on =false;
+    change_mood(hostility);
+    dialog_on = false;
     }
 }
 </string>

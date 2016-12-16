@@ -38,6 +38,8 @@ switch( category ) {
         
         //Manually set the width of the dialogue box to 400px. The width that's sent to the dialogue box is automatically autosized to longest line of text in the dialogue box.
         backInst.dialogueWidth = 400;
+        backInst.dialogueOptionSpacing = 15;
+        backInst.dialogueOptionOffsetX = 70;
         
         //Add a tweening animation to the dialogue box.
         scr_juju_animate( backInst, 0.02,   xx, yy - 150, 0,   xx, yy, 1,   scr_juju_ease_cubic_in );
@@ -47,8 +49,11 @@ switch( category ) {
         
         
         //Guardamos el mensaje en el journal
-        var message = ds_map_find_value(ds_map_find_value(db, tag), "text");
-        update_journal(message);
+        var tag_map = ds_map_find_value(db, tag);
+        if (!is_undefined(tag_map)){
+            var message = ds_map_find_value(tag_map, "text");
+            update_journal(message);
+        }
         
     break;
     

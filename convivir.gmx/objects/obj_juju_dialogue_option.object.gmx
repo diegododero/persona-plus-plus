@@ -157,6 +157,11 @@ if ( gamepadOverEndStep ) {
             <kind>1</kind>
             <string>///Draw
 
+var oldColour = draw_get_colour();
+var oldFont = scr_juju_font_get();
+
+scr_juju_text_styles( obj_juju_text.textStartStyle );
+
 if ( dialogueText.textDelay &gt;= 0 ) {
     if ( !scr_juju_gamepads_crude_any_connected() ) {
         if ( mouseOver ) {
@@ -172,6 +177,11 @@ if ( dialogueText.textDelay &gt;= 0 ) {
         }
     }
 }
+
+draw_set_colour( oldColour );
+draw_set_valign( fa_top );
+scr_juju_font_set( oldFont );
+draw_set_alpha( 1 );
 </string>
           </argument>
         </arguments>
